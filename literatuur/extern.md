@@ -1,3 +1,8 @@
+---
+layout: index
+title: Literatuur - Extern
+---
+
 # Extern
 
 **Model van Gelder:**

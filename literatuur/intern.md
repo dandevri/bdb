@@ -1,3 +1,8 @@
+---
+layout: index
+title: Literatuur - Intern
+---
+
 # Intern
 
 **Youssef el Bouhassani:**  
