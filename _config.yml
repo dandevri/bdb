@@ -2,6 +2,5 @@ title: BDB
 tagline: 'Alles van de BDB HvA Academie'
 description: 'Alles van de BDB HvA Academie'
 remote_theme: fongandrew/hydeout
-baseurl: /bdb/
 plugins:
   - jekyll-remote-theme
