@@ -22,10 +22,10 @@ sidebar_link: true
 
 *Een lijst en notities met bronnen vanuit interne inspirators die workshops verzorgen voor de BDB.*
 
-[Interne bronnen](/literatuur/intern)
+[Interne bronnen](../literatuur/intern)
 
 ## Extern
 
 *Een lijst en notities met externe bronnen die ter inspiratie dienen.*
 
-[Externe bronnen](/literatuur/extern)
+[Externe bronnen](../literatuur/extern)

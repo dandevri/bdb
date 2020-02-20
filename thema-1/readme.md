@@ -20,10 +20,10 @@ Het doel van dit thema is om jouw studenten te motiveren en inspireren. Vragen d
 
 *Deze bijeenkomst stond in het teken van kennismaken met de andere deelnemers van de BDB en het **opstellen van leervragen** over manieren om studenten te motiveren.*
 
-→ [Leervragen](/thema-1/bijeenkomst-1)
+→ [Leervragen](../thema-1/bijeenkomst-1)
 
 ### Bijeenkomst 2
 
 *Deze bijeenkomst ging over **taal en het effect van een goede taalvaardigheid**. Elke docent zou moeten bijdragen aan de taalontwikkeling van de student.*
 
-→ [Screening taal](/thema-1/bijeenkomst-2)
+→ [Screening taal](../thema-1/bijeenkomst-2)
