@@ -16,6 +16,12 @@ Het doel van dit thema is om jouw studenten te motiveren en inspireren. Vragen d
 * Je kunt de leersituatie aansluiten op het beginniveau en de belevingswereld van je studenten.
 * Je kunt eigen inbreng van je studenten bewust inzetten: je kunt laten zien dat studenten in jouw onderwijs actief aan de slag zijn zodat ze zelf regie nemen over hun eigen leren.
 
+## Bewijsmateriaal
+* Welk bewijsmateriaal ga jij verzamelen om te laten zien dat je aan de beoordelingscriteria voldoet? Hoe koppel je je bewijs aan je leervraag?
+* Welke onderwijskundige bronnen ga je gebruiken? 
+* Welke feedbackgevers uit je onderwijspraktijk ga je betrekken?
+
+
 ### Bijeenkomst 1
 
 *Deze bijeenkomst stond in het teken van kennismaken met de andere deelnemers van de BDB en het **opstellen van leervragen** over manieren om studenten te motiveren.*

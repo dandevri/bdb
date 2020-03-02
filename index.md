@@ -33,3 +33,8 @@ Notities van het intake gesprek met opleider Jacqueline Kenkel en werkplek begel
 Sinds september 2018 ben ik docent en coördinator webtechnologie bij Communication en Multimedia design, een HBO-ontwerpopleiding voor digital interactive design, en geef les in de technische vakken van onze opleiding zoals internetstandaarden, inleiding programmeren, front-end en datavisualisatie. Ik coordineer webanimatie in onze minor VID & back-end in ons themasemester. Over alle jaren geef ik wel ergens een vak. Daarnaast ben ik lid van onze examencomissie en brightspace key user.
 
 Daarnaast geef ik veel gastcolleges en spreek ik bij bedrijven en evenementen over ontwerpen voor het web. Ik maak online video's over design en development en probeer hier en daar een artikel te schrijven voor m'n blog. Veel van mijn projecten die ik daarnaast doe zijn open-source. In m'n vrije tijd hou ik ervan om met een raspberry pi te kooien, sci-fi films en series te kijken, boeken lezen en indie games te spelen.
+
+## Leren in de BDB
+* **Ervaringen**: Wat leer je van jezelf, wat gaat goed en wat minder?
+* **Begeleiding en coaching**: Op de werkplek en van begeleiders tijdens BDB
+* **Theorie**: Literatuur en bewijsmateriaal verzamelen (evidence based)
