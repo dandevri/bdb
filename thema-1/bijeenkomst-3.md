@@ -107,8 +107,10 @@ Uit feedback in de lessen zelf blijkt dat studenten *meer behoefte hebben aan li
 * [Screenshots blokenquetes]
 
 ## Bronnen
+* [The right way to respond to negative feedback (article)][negative]
+* [5 reasons you should seek your OWN student feedback (article)][reasons]
+* [Improving student motivation (workshop and slides)][bdb]
 
-[10]: /aantekeningen/10-werkvormen.pdf
-[99]: /aantekeningen/99-tips.pdf
-[education]: https://css-tricks.com/words-avoid-educational-writing/
-[just]: https://bradfrost.com/blog/post/just/
+[negative]: https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback
+[reasons]: https://www.cultofpedagogy.com/student-feedback/
+[bdb]: http://bit.ly/bdb_studentmotivation
