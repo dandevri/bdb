@@ -21,6 +21,13 @@ Het doel van dit thema is om jouw studenten te motiveren en inspireren. Vragen d
 * Welke onderwijskundige bronnen ga je gebruiken? 
 * Welke feedbackgevers uit je onderwijspraktijk ga je betrekken?
 
+1.Authenticiteit (het is een aantoonbaar bewijs) 
+2. Relevantie (gelinkt aan de criteria en aan je leervraag)
+3. Actualiteit, (niet al te lang geleden)
+4. Variatie (verschillende situaties en criteria)
+5. Kwantiteit (drie)
+
+
 
 ### Bijeenkomst 1
 
@@ -33,3 +40,9 @@ Het doel van dit thema is om jouw studenten te motiveren en inspireren. Vragen d
 *Deze bijeenkomst ging over **taal en het effect van een goede taalvaardigheid**. Elke docent zou moeten bijdragen aan de taalontwikkeling van de student.*
 
 → [Screening taal](../thema-1/bijeenkomst-2)
+
+### Bijeenkomst 3
+
+*Deze bijeenkomst ging over **feedback vragen van studenten**. Feedback is een kans om te begrijpen waar je studenten behoefte aan hebben en te verbinden met studenten.*
+
+→ [Feedback vragen](../thema-1/bijeenkomst-3)

@@ -21,6 +21,10 @@ Taalontwikkeld lesgeven
 * Kahoot
 * Mentimeter
 * Typeform
+* [Typeform (voorbeeld)][voorbeeld]
+* [Onzeles.nl][onzeles]
 
 [mooc]: https://moocbeterschrijven.nl/courses/course-v1:UvAHvA+1+2017/about
 [winkel]: https://www.taalwinkel.nl/
+[voorbeeld]: https://youssef12.typeform.com/to/QyNX7p
+[onzeles]: https://onzeles.nl/
