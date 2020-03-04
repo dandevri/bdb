@@ -23,8 +23,12 @@ Tijdens deze cursus zijn al mijn digitale aantekening gemaakt op een iPad Pro me
 ## Bedankt
 Een grote dank aan **Jacqueline Kenkel** voor haar begeleiding tijdens dit traject, **Nadia Tromp** voor haar individuele coaching en **Sonja Rouwhorst** voor haar werkplek begeleiding.
 
-Ook een dank aan mijn leergroep: **Stefan Hendriks**, **Marijke Peijnenburg** & **Coline Pannier**
+Dank aan mijn leergroep: **Stefan Hendriks**, **Marijke Peijnenburg** & **Coline Pannier**
 voor hun uiterst waardevolle feedback.
+
+Dank aan mijn intervisiegroep: **Patrick de Kock**, **Steven Lips**, **Koby van Zetten** & **Jeanine van Butselaar** voor het bespreken van moeilijke casussen.
+
+Dank aan **alle docenten van CMD Amsterdam** die mij in de wandelgangen hebben voorzien van feedback.
 
 ## Licentie
 GNU General Public License v3.0, text en afbeeldingen zijn CC-BY-4.0.
