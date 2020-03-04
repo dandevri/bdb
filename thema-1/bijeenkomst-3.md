@@ -101,7 +101,7 @@ Uit feedback in de lessen zelf blijkt dat studenten *meer behoefte hebben aan li
 * Je monitoreert goed wat ieders persoonlijke voortgang is en sluit daar op aan. 
 
 ## Bijlage
-* [Notities bijeenkomst-3]
+* [Notities bijeenkomst-3](/notities/bijeenkomst-3.pdf)
 * [Foto's feedback post-its]
 * [Screenshots vakevaluaties]
 * [Screenshots blokenquetes]
