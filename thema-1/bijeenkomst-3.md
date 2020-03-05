@@ -102,9 +102,9 @@ Uit feedback in de lessen zelf blijkt dat studenten *meer behoefte hebben aan li
 
 ## Bijlage
 * [Notities bijeenkomst-3](/notities/bijeenkomst-3.pdf)
-* [Foto's feedback post-its]
-* [Screenshots vakevaluaties]
-* [Screenshots blokenquetes]
+* [Foto's feedback post-its](/bijlage/thema-1/feedback)
+* [Screenshots vakevaluaties](/bijlage/thema-1/feedback)
+* [Screenshots blokenquetes](/bijlage/thema-1/feedback)
 
 ## Bronnen
 * [The right way to respond to negative feedback (article)][negative]
