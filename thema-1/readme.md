@@ -46,3 +46,9 @@ Het doel van dit thema is om jouw studenten te motiveren en inspireren. Vragen d
 *Deze bijeenkomst ging over **feedback vragen van studenten**. Feedback is een kans om te begrijpen waar je studenten behoefte aan hebben en te verbinden met studenten.*
 
 → [Feedback vragen](../thema-1/bijeenkomst-3)
+
+### Bijeenkomst 4
+
+*Deze bijeenkomst ging over **gesprekken voeren over controversiële onderwerpen in de klas**. Studenten kunnen heftige uitspraken doen tijdens een college en we weten niet altijd hoe we moeten reageren.*
+
+→ [Controversiële onderwerpen](../thema-1/bijeenkomst-4)
