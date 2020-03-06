@@ -58,21 +58,21 @@ Voor het vak 'back-end' ben ik van een thema opzet naar een week opzet gegaan. S
 * Als studenten geen issue heeft aangemaakt is dat voor mij reden om meer aandacht te besteden aan deze student in de les
 * Studenten kunnen zelf terug gaan naar hun eigen issues en zien of ze achterlopen
 
-![Issues back-end screenshot](/bijlage/screenshots/back-end-issues.png)
+![Issues back-end screenshot](../bijlage/screenshots/back-end-issues.png)
 *Een voorbeeld van issues die studenten kunnen aanmaken per week*
 
-![Detailpagina issue back-end screenshot](/bijlage/screenshots/back-end-issue.png)
+![Detailpagina issue back-end screenshot](../bijlage/screenshots/back-end-issue.png)
 *In zo'n issue zetten studenten een samenvatting neer van wat ze hebben gedaan en reflecteren hier kort op*
 
 Studenten leveren hun werk niet in Brighspace in maar op GitHub. In GitHub kun je 'snapshots' maken van code. Door elke keer een commit te maken ze een stap naar hun eindopdracht. Die commits zijn publiek en ik maar ook de docent kan deze terugzien.
 
-![Commits back-end screenshot](/bijlage/screenshots/back-end-commit.png)
+![Commits back-end screenshot](../bijlage/screenshots/back-end-commit.png)
 *'Snapshots' van een student waarin ze terug kunnen gaan naar vorige versies*
 
 #### Terugkoppeling slides
 Aan het eind van de week ga ik door de issues van mijn klas heen en schrijf ik op wat er goed gaat en wat er beter kan. Dit verwerk ik dan in de slides van de week erop en de studenten kunnen deze feedback dan verwerken. Wat hier ook krachtig aan is dat we het klassikaal bespreken en we de fouten van meerdere individueen met elkaar combineren.
 
-![Slides back-end screenshot](/bijlage/screenshots/back-end-slides.png)
+![Slides back-end screenshot](../bijlage/screenshots/back-end-slides.png)
 *Terugkoppeling met tips en tops in de slides*
 
 ### Waar sta ik nu?
@@ -95,10 +95,10 @@ Bij het vak front-end in het tweedejaar maakte we gebruik van 'pistes'. Studente
 * Voor de blauwe piste maakte ik vaak een aparte tafel om onderwerp uit de les extra uit te leggen, de rest van de studenten kon aan de slag met de opdrachten
 * Als de mensen uit de rode piste 'snel' klaar waren met de opdrachten kon ik ze aansporen om te proberen aan de slag te gaan met de opdracht uit de zwarte piste. Vaak stonden ze dan versteld over dat ze die opdracht ook konden maken
 
-![Slides front-end screenshot](/bijlage/screenshots/frontend-slides.jpg)
+![Slides front-end screenshot](../bijlage/screenshots/frontend-slides.jpg)
 *Slides uit de les front-end met kleurcodes voor het niveau van de opdrachten*
 
-![Slides front-end screenshot](/bijlage/screenshots/frontend-toets.png)
+![Slides front-end screenshot](../bijlage/screenshots/frontend-toets.png)
 *Voorbeeld van een diagnostische toets voor de les front-end*
 
 #### Live demo's
@@ -107,7 +107,7 @@ Uit de feedback van de studenten bleek dat ze veelal behoefte hadden aan 'live c
 
 Van onderwerpen uit de slides die vaak terugkomen of belangrijk zijn heb ik video's gemaakt die op Youtube staan. Ook daar komen de live demo's weer terug. Studenten kunnen op hun eigen gemak video's terugkijken.
 
-![Screenshot back-end screencast](/bijlage/screenshots/back-end-video.png)
+![Screenshot back-end screencast](../bijlage/screenshots/back-end-video.png)
 *Screenshot van een video back-end die op [Youtube staat](https://www.youtube.com/watch?v=tdqXTNqNrr0)*
 
 ## Leervraag 3 - Autonomie
@@ -132,9 +132,9 @@ Bij het vak inleiding programmeren sluiten studenten het vak af met een product 
 Niet per se gekoppeld aan de leervragen maar ik heb dit thema veel aandacht besteed aan het vergaren van feedback en de evaluaties van vakken het afgelopen jaar. Daar heb ik naast de leervragen heel veel inzicht gehaald en wil die toch benoemd hebben. Onder `thema-1/bijeenkomst 3`A heb ik daar uitgebreid over geschreven.
 
 ## Bijlage
-* [Foto's feedback post-its uit de les](/bijlage/thema-1/feedback)
-* [Screenshots vakevaluaties afgelopen blok](/bijlage/thema-1/feedback)
-* [Screenshots blokenquetes afgelopen blok](/bijlage/thema-1/feedback)
+* [Foto's feedback post-its uit de les](../bijlage/thema-1/feedback)
+* [Screenshots vakevaluaties afgelopen blok](../bijlage/thema-1/feedback)
+* [Screenshots blokenquetes afgelopen blok](../bijlage/thema-1/feedback)
 
 ## Bronnen
 * [Paul van den Bos (2016). *De student van tegenwoordig*. (geannoteerd)][bos] 
