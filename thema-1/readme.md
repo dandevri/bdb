@@ -52,3 +52,9 @@ Het doel van dit thema is om jouw studenten te motiveren en inspireren. Vragen d
 *Deze bijeenkomst ging over **gesprekken voeren over controversiële onderwerpen in de klas**. Studenten kunnen heftige uitspraken doen tijdens een college en we weten niet altijd hoe we moeten reageren.*
 
 → [Controversiële onderwerpen](../thema-1/bijeenkomst-4)
+
+### Assessment
+
+*In het peer-assessment 1 laat je zien door middel van 3 voorbeelden hoe jij studenten gemotiveerd en geïnspireerd hebt, op welke manier je dat hebt gedaan en wat het resultaat is.*
+
+→ [Peer assessment](../thema-1/assessment)
