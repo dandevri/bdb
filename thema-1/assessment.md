@@ -126,7 +126,7 @@ Met bovenstaande bewijslast en leervraag toon ik aan te voldoen aan **criteria 5
 
 ### Waar stond ik?
 Tijdens een vak moeten studenten vaak gehele nieuwe programmeertaalen (bijvoorbeeld JavaScript) eigen maken. Daarvoor gebruiken we bij het ontwerp van een vak veel online artikelen en online interactieve opdrachten. Het is best lastig om bronnen en opdrachten te vinden die 'one-size fits all' zijn. **Het niveau verschil tussen studenten** is groot. Veel studenten hebben helemaal geen programmeerervaring terwijl andere een vooropleiding (MBO) hebben afgerond in de richting van techniek. 
-* De ene student wilt een 'jip en janneke' artikel terwijl de andere student juist behoefte heeft aan meer verdiepende stof. Ik probeer nu steeds artikelen te geven waarvan ik denk dat ze 'gemiddeld' zijn.
+* De ene student wil een 'jip en janneke' artikel terwijl de andere student juist behoefte heeft aan meer verdiepende stof. Ik probeer nu steeds artikelen te geven waarvan ik denk dat ze 'gemiddeld' zijn.
 * Studenten geven in hun feedback aan (zie bijlage) ze heel veel van de stof leren als ik het een keer voordoe en live voor de klas een opdracht doorloop, dat doe ik weinig in de lessen.
 
 ### Bewijsmateriaal
@@ -171,14 +171,14 @@ Met bovenstaande bewijslast en leervraag toon ik aan te voldoen aan **criteria 2
 
 ## Waar stond ik?
 
-Als ik terugkijk naar mijn studententijd waren mijn beste opdrachten de opdrachten waar ik de vrijheid kreeg om een eigen idee uit te werken. Daarnaast begreep ik het concept van 'verplichte tussenopdrachten' zelf nooit zo goed. Ik wou tijdens het vak altijd steeds kleine stappen maken naar een eindopdracht en niet verplichte opdrachtjes maken en die inleveren.
+Als ik terugkijk naar mijn studententijd waren mijn beste opdrachten de opdrachten waar ik de vrijheid kreeg om een eigen idee uit te werken. Daarnaast begreep ik het concept van 'verplichte tussenopdrachten' zelf nooit zo goed. Ik wilde tijdens het vak altijd steeds kleine stappen maken naar een eindopdracht en niet verplichte opdrachtjes maken en die inleveren.
 
 ### Bewijsmateriaal
 
 ### Eindopdracht
 Bij het vak inleiding programmeren sluiten studenten het vak af met een product (mondeling) waarbij ze zelf een concept mogen verzinnen om daar een applicatie van te schrijven. Tijdens de lessen is het dus vooral voor mij belangrijk om de studenten bij te sturen met hun concept, daar feedback op te geven en desnoods in complexiteit aanvoeren.
 
-* Ik vertel de studenten af en aanraders van wat goede eindopdrachten zijn en veel voorkomende fouten van mensen die het mondeling niet halen.
+* Ik vertel de studenten afraaders en aanraders van wat goede eindopdrachten zijn en veel voorkomende fouten van mensen die het mondeling niet halen.
 * Ik laat een aantal praktijkvoorbeelden zien maar showcase ook het werk van voorgaande jaren
 
 ![Slides inleiding programmeren screenshot](../bijlage/screenshots/slides-programmeren.jpg)
@@ -191,7 +191,7 @@ Bij het vak inleiding programmeren sluiten studenten het vak af met een product 
 Met bovenstaande bewijslast en leervraag toon ik aan te voldoen aan **criteria 4** en **criteria 5**. De studenten kunnen aan een opdracht werken die *aansluit op hun eigen beginniveau* en door zelf een concept te verzinnen nemen ze *regie over het eigen leren*.
 
 * **Mate van vrijheid** in de keuze van de leertaken (zie student van tegenwoordig)
-* **Ondersteunen en bijsturen** van de eindopracht om aan te sluiten bij het niveau
+* **Ondersteunen en bijsturen** van de eindopdracht om aan te sluiten bij het niveau
 
 > Goede mix van kort en bondig uitleggen (achtergrond / theorie) en zelf aan de slag met onze eindopdracht die we zelf verzonnen hebben.
 > 
