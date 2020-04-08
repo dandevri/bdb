@@ -7,7 +7,7 @@ title: Bijeenkomst 1
 
 *Deze bijeenkomst was een kick-off van thema-3 met uitleg over dit thema: het herontwerpen van een onderwijsmodule.*
 
-Thema 3 is naar voren geschoven en thema 2 is voorlopig uitgesteld.
+Thema 3 is naar voren geschoven en thema 2 is voorlopig uitgesteld. Elke dinsdag en woensdag is er van 13:30 - 14:30 een Virtual Learning Classroom (VLC).
 
 ## Notities
 
@@ -21,6 +21,12 @@ Kijk op score.hva.nl voor meer informatie over constructive alignment.
 Kijk naar dee fink (situational factors) Lees toetsen om te leten van paul van den bos.
 
 ## Wens / uitgangspunten
+
+Denk na over 'jouw droom' Wat zeggen studenten als ze jouw vak hebben gedaan? Wat wil je dat studenten over een paar jaar over jouw vak zeggen.
+
+* Vak waar ze inhoudelijk in hun loopbaan wat aan gaan hebben (bewust mee omgaan)
+* Op de praktijk gericht, aansluiten bij het werkveld
+* Blijvende verandering in de verdere carriere vna de student
 
 ### Overal en continu
 * Materiaalkennis vergroten

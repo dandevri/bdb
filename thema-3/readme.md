@@ -35,6 +35,12 @@ Het doel van dit thema is het (her)ontwerpen en optimaliseren van je onderwijs v
 
 → [Kick-off](../thema-3/bijeenkomst-1)
 
+### Bijeenkomst 2
+
+*Deze bijeenkomst ging over hoe je tot een goede afstemming (constructive alignment) kunt komen en inzoomen op hoe toetsing te organiseren.*
+
+→ [Constructive alignment](../thema-3/bijeenkomst-2)
+
 ### Analyse
 
 *Start met de analyse van een bestaand onderwijsonderdeel. Kies een module, minor of ander onderwijsonderdeel waar jij mee aan de slag wilt gaan met een eigen onderzoek.*
