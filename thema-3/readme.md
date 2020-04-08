@@ -29,6 +29,12 @@ Het doel van dit thema is het (her)ontwerpen en optimaliseren van je onderwijs v
 * Een presentatie (vorm is vrij) van het herontwerp aan je team en de reactie daarop van de aanwezigen.
 * Het is voorwaardelijk dat je op je herontwerp voorafgaand aan de presentatie feedback hebt opgehaald van een SKE'er van jouw opleiding
 
+### Bijeenkomst 1
+
+*Deze bijeenkomst was een kick-off van thema-3 met uitleg over dit thema: het herontwerpen van een onderwijsmodule.*
+
+→ [Kick-off](../thema-3/bijeenkomst-1)
+
 ### Analyse
 
 *Start met de analyse van een bestaand onderwijsonderdeel. Kies een module, minor of ander onderwijsonderdeel waar jij mee aan de slag wilt gaan met een eigen onderzoek.*

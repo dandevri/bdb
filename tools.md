@@ -26,6 +26,9 @@ Taalontwikkeld lesgeven
 * [Typeform (voorbeeld)][voorbeeld]
 * [Onzeles.nl][onzeles]
 
+## Toetsing
+* score.hva.nl
+
 ## Discussie
 
 * [Gesprekssjabloon controversiële onderwerpen (handout)][omgaan]

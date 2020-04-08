@@ -10,6 +10,7 @@ sidebar_link: true
 
 * Marianne Meijers (2018). Ontwerp je ontwikkeling. Boom uitgevers Amsterdam.
 * David Didau (2015). What If Everything You Knew about Education Was Wrong? Crown House Publishing.
+* L. Dee Fink (2003). Creating Significant Learning Experiences. Jossey-Bass.
 
 ## Websites en online artikelen
 
