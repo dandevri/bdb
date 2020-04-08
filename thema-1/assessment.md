@@ -197,6 +197,16 @@ Met bovenstaande bewijslast en leervraag toon ik aan te voldoen aan **criteria 4
 > 
 > — Student Inleiding Programmeren (propedeuse)
 
+## Feedback assessment
+
+**Leergroep:**  
+_Hou je enthousiasme vast en blijf experimenteren met tools. Zoek een balans tussen persoonlijke betrokkenheid en een systeem. Blijf werken aan de ”human” relatie met je studenten. Wat doe je dat (blijkbaar) werkt, laat die zien._
+
+**Coach**  
+_Prachtig portfolio. Je bent op een heel systematische manier in het onderwerp motiveren en inspireren gedoken en ik vind je koppeling van je leervragen aan relatie, autonomie en competentie een goed toegepast indelingsprincipe, waardoor je meteen het hele spectrum hebt beschreven. Complimenten voor je aanpak. Je beschrijving van je eigen ontwikkeling en de eerlijkheid waarmee je deze beschrijft vind ik bewonderenswaardig. Jezelf open stellen voor je eigen leren en ontwikkelen is essentieel voor een goede docent!_
+
+**Thema 1: Voldaan**
+
 ## Bijlage
 * [Back-end screencast video's](https://www.youtube.com/channel/UCNtqkUUWlncsFu5qhfDZ4oA/videos)
 * [Back-end GitHub issues](https://github.com/cmda-bt)
