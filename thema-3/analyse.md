@@ -47,11 +47,7 @@ Dat wil niet zeggen dat de vakinhoud op het moment goed is, ook daar zie ik verb
 
 ### Communicatie
 
-> Hoe is de samenwerking in het team? Zijn er overlegmomenten? Is er een taakverdeling?
-
 Er zijn geen vaste kalibraties ingeroosterd voor docenten maar de samenwerking tussen docent en coordinator is erg goed te noemen. Wat scheelt is dat we als docenten in Slack zitten en constant met elkaar bespreken. Wat dus wel enigszins mist is een systematische manier van inwerken en kalibreren. Dit gebeurd meer 'op aanvraag'. De coördinator is goed bereikbaar, wat wellicht meer kan is onderlinge afstemming tussen docenten en intervisie. Bij lessen kijken is daar een concreet voorbeeld van, dat doe ik zelf wel maar gebeurd onderling weinig. Als docent is er alle vrijheid om het vak naar je eigen hand te zetten als in slides aanpassen, tussenopdrachten in de les hier en daar herschrijven. Wat in mijn optiek een breder CMD probleem is dat als er vaste intervisie / kalibratie momenten voor een vak zijn niet altijd alle docenten aanwezig zijn of achteraf input geven. Bij de technische vakken is dat vaak het tegenovergestelde, als er een meeting is is ook bijna iedereen aanwezig.
-
-> Klopt de studiehandleiding? Hoe is de communicatie naar studenten?
 
 #### DLO
 
@@ -63,6 +59,30 @@ De praktische informatie in de studiegids is correct. Wel vind ik van beide vakk
 
 ### Situational Factors
 
+Het niveau verschil binnen een klas is groot. Sommige studenten hebben al voorkennis vanwege een MBO opleiding (slaan de basis over) andere willen juist de tijd hebben om de basis eigen te maken (1e generatie studenten, havisten). Studenten zijn over het algemeen wat 'bangig' voor techniek. Het vak moet ze 'zelfvertrouwen' geven om te experimenten met techniek en slaagt daar niet altijd in.
+
+Bij _inleiding programmeren_ is het nog lastiger om ze dat zelfvertoruwen te geven. Sommige studenten hebben dan al moeite gehad met het voorgaande vak _internetstandaarden_ en is het lastig om ze weer enthousiast te maken voor techniek. Houding is vaak al 'ik kan het toch niet'.
+
+* **Klas:** Grote klassen (25/30) waardoor het voor docenten lastig is iedereen individueel aandacht te geven.
+* **Lesuren:** Het vak is 2x 2 lesuren in de week (voorheen 1x 4/5 lesuren). Bij technische vakken in de latere jaren merk ik dat studenten de lessen van 3/4 lesuren te lang vinden. 
+* **Inhoud:** Veelal werkgroepen en huiswerk (opdrachten) via de leeromgeving. Theorie komt uit het lezen van een boek.
+* **Docenten:** Het enthousiasme van een docent is ook vaak doorslaggeven voor de student. Of de docent het in begrijpelijk taal kan uitleggen en of hij of zij bereikbaar is buiten de les.
+* Er is vanuit het bedrijfsleven veel vraag naar techneuten, alleen studenten zien vaak het belang van techniek nog niet helemaal. Studenten zien techniek zwart / wit. Je kan het of je kan het niet en dat is mijn optiek gewoonweg niet waar.
+* Programmeren gaat niet alleen over het leren van een specifieke programmeertaal maar ook over probleem oplossend vermogen (code literacy).
+
 ### Bronnen
+* Vakevaluaties internetstandaarden (studiejaar 17/18 & 18/19 - via moodle)
+* Vakevaluaties inleiding programmeren (studiejaar 17/18 & 18/19 - via moodle)
+* Blokenquetes internetstandaarden (studiejaar 17/18 & 18/19 - via moodle)
+* Blokenquetes inleiding programmeren (studiejaar 17/18 & 18/19 - via moodle)
+* [Studiegids internetstandaarden (via studiegids.hva.nl)][studieis]
+* [Studiegids inleiding programmeren (via studiegids.hva.nl)][studieip]
 
 ### Bijlage
+* [Volledige analyse internetstandaarden (op GitHub)][is]
+* [Volledige analyse inleiding programmeren (op GitHub)][ip]
+
+[ip]: https://github.com/CMDA/tech-0_ontwikkeling/blob/master/analyse/inleiding-programmeren.md
+[is]: https://github.com/CMDA/tech-0_ontwikkeling/blob/master/analyse/internetstandaarden.md
+[studieis]: https://studiegids.hva.nl/co/cmd-vt/100000000/010607
+[studieip]: https://studiegids.hva.nl/co/cmd-vt/100000000/010616

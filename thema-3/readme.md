@@ -47,6 +47,12 @@ Het doel van dit thema is het (her)ontwerpen en optimaliseren van je onderwijs v
 
 → [Verdieping Constructive alignment](../thema-3/bijeenkomst-3)
 
+### Bijeenkomst 4
+
+*Deze bijeenkomst ging over toetsing. De nadruk op meer formatieve toetsing, programmatisch toetsen, de studenten actiever betrekken bij toetsing.*
+
+→ [Toetsing](../thema-3/bijeenkomst-4)
+
 ### Analyse
 
 *Start met de analyse van een bestaand onderwijsonderdeel. Kies een module, minor of ander onderwijsonderdeel waar jij mee aan de slag wilt gaan met een eigen onderzoek.*
