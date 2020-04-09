@@ -41,6 +41,12 @@ Het doel van dit thema is het (her)ontwerpen en optimaliseren van je onderwijs v
 
 → [Constructive alignment](../thema-3/bijeenkomst-2)
 
+### Bijeenkomst 3
+
+*Deze bijeenkomst ging verder (verdieping) over constructive alignment. We bekeken voorbeelden van gemaakte analyses van mede BDBers en konden vragen stellen aan Margot van Rotterdam.*
+
+→ [Verdieping Constructive alignment](../thema-3/bijeenkomst-3)
+
 ### Analyse
 
 *Start met de analyse van een bestaand onderwijsonderdeel. Kies een module, minor of ander onderwijsonderdeel waar jij mee aan de slag wilt gaan met een eigen onderzoek.*
