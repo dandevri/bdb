@@ -20,13 +20,13 @@ title: Analyse
 * [Communicatie](#communicatie)
 * [Situational Factors](#situational-factors)
 * [Leerdoelen](#leerdoelen)
-* [Leeractiviteiten](#feedback)
-* [Toetsing](#feedback)
-* [Alignment](#feedback)
-* [Evaluaties](#feedback)
-* [Probleemstelling](#feedback)
+* [Leeractiviteiten](#leeractiviteiten)
+* [Toetsing](#toetsing)
+* [Alignment](#alignment)
+* [Evaluaties](#evaluaties)
+* [Verbeterpunten](#verbeterpunten)
 * [Bronnen](#bronnen)
-* [Bijlage](#bijlagen)
+* [Bijlage](#bijlage)
 
 ### Introductie 
 
@@ -111,48 +111,105 @@ Vooral bij de leerdoelen van _internetstandaarden_ vind ik dat de leerdoelen voo
 
 ### Leeractiviteiten
 
-De M.C. Toetsen zorgen voor het masteren van de content. De eindopdracht zorgt voor het gebruik van de content en toepassen.
+Beide vakken zijn vooral oppervlakte leren. **Het onthouden en begrijpen van techniek en programmeertalen**. We doen dit vooral met praktische opdrachten die de studenten moeten uitvoeren. Bij de eindopdracht leveren studenten een product op waardoor er meer sprake is van diepte-leren door het toepassen van de stof en kennis in een prototype en het analyseren van hun eigen concept en dat vertalen naar code. Van evalueren binnen de taxonomie is weinig tot geen sprake, studenten focussen zich op het 'werkend' krijgen van hun code maar niet per se hoe ze daarop kunnen itereren of 'slimmer' kunnen schrijven.
 
-Door de M.C. toets zijn er in het vak 'checks' ingebouwd. Daarnaast is er voor de eindopdracht een moment waarbij concepten worden besproken waardoor het mogelijk is om het leren bij te sturen.
+Het vak _inleiding programmeren_ heeft heel erg een _problem-based approach_. Op Brightspace staan kleine programmeeropdrachten die studenten in en buiten de les uitvoeren met de theorie die ze vooraf in het boek hebben gelezen. Het eindresultaat staat beschreven (of een probleem / casus) en studenten werken in tussentappen naar dat resultaat. De opdrachten sluiten aan bij elk hoofdstuk van het boek. **Zonder die theoretische kennis kan een student eigenlijk de opdracht niet maken**. Er is geen sprake van team-based learning of accelerated learning.
 
-Er is een redelijke mix van in-class en out-of-class activities. Lezen van een boek, maken van opdrachten en vervolgens bespreken in de klas. Dingen als programmeeromgeving mag iets meer out-of-class.
+Er is een redelijke mix van in-class en out-of-class activities:
+* Studenten lezen ter voorbereiden van een les hoofdstukken uit het boek
+* Maken thuis de opdracht (of als huiswerk van de les ervoor)
+* Tijdens de les bespreken met live demo's en aan de hand van de opdrachten de theorie klassikaal.
 
-Het vak heeft enigszins een problem-based approach. Er staat stapgsgewijs beschreven wat het eindresultaat moet zijn maar de studenten moeten zelf de stappen schrijven. Het is nog wel veel hand vasthouden. Er is geen sprake van team-based learning of accelerated learning.
+De balans tussen die opdrachten is goed te doen en studenten vinden deze praktijkgerichte manier van werken en flow van het uitwerken fijn.
 
-Inleiding programmeren is vooral oppervlakte leren. Het onthouden en begrijpen van techniek en programmeertalen. Daarnaast raken we punten van diepte-leren door het toepassen in een prototype en het analyseren (concept opbreken in stapjes). Van evalueren binnen de taxonomie is eigenlijk geen sprake.
-
-Denk dat er meer praktijkvoorbeelden in het vak moeten. Er zijn veel 'fictieve' opdrachtjes maar weinig echte use cases ingebouwd waaran studenten zien hoe techniek in de praktijk is. Of uitleggen waarom techniek in het bedrijfsveld belangrijk zijn.
-
-Nieuwe ondersteunende theorie, niet een boek maar diversiteit in bronnen.
+Er zijn denk ik drie punten waarop we de leeractiviteiten nog kunnen aanscherpen:
+* Het vak heeft weinig praktijkvoorbeelden. Er zijn veel 'fictieve' opdrachtjes maar weinig echte use cases die een student later in het bedrijfsleven tegen zou kunnen komen. De student ziet niet echt hoe techniek in de praktijk past of in relatie tot andere vakken in hetzelfde project.
+* Nieuwe ondersteunende theorie, niet alleen een boek maar meer diversiteit in bronnen. Het gebruikte boek hanteert iets oudere programmeer standaarden.
+* De opzet van deze activiteiten blijft hetzelfde gedurende de 8 weken van het vak (volgt een vast stramien). Sommige studenten vinden dat fijn, ze weten wat er elke les verwacht wordt en geeft consistentie. Anderen geven aan dat het vooral de laatste lessen steeds meer herhaling begint te worden.
 
 ### Toetsing
 
-Er zijn twee M.C. toetsen die met een voldoende moeten worden afgesloten, deze zijn niet compenseerbaar. Tellen 10% van het eindcijfer. Verder is er een product dat mondeling wordt toegelicht. Deze telt 90% mee van het eindcijfer.
+Binnen het vak _inleiding programmeren_ zijn er twee toetsvormen. Bij _internet standaarden_ is dit ook het geval maar zijn de Multiple Choice toetsen vervangen door een digitaal tentamen.
 
-* **Valideit**: Voor de M.C. Toets gaat het puur om kennis toetsen maar zegt niets over toepassen. Je kan JavaScript leren als taal maar toepassen is lastig. Geeft wel druk voor de student om stof eigen te makmen.
-* **Betrouwbaarheid:** M.C. toets is digitaal in de les zelfde omstandigheden. Moeilijk aan de mondelinge toets is de tijdsduur. Understanding toetsen in 15 / 20 minuten per student is lastig. Daarom moet een student ook vaak live wijzigingen aanbrengen.
-* **Transparantie**: Voor de M.C. toets worden voorbeeldvragen gegeven en klassikaal besproken. Het beoordelingsformulier word in de les besproken en staat duidelijk gecommuniceerd op Brightspace
-* **Leerfunctie**: De M.C. Toets geeft druk voor de studenten om de stof bij te houden en het bloek te blijven lezen. De eindopdracht zorgt ervoor dat ze die moeten toepassen. Na het maken van de eindopdrachten zijn er altijd nog verbeterpunten maar weinig studenten raken dan hun code nog aan.
+* Kennistoets 1 (M.C.): 5% van het eindcijfer
+* Kennistoets 2 (M.C.): 5% van het eindcijfer
+* Product (mondeling): 90% van het eindcijfer
 
-Beoordelignsformulier en criteria wel vrij technisch, dit van de taal moet er inzitten in plaats van uitleg. Voelt als iets meer een afvink lijstje.
+Er zijn twee M.C. toetsen die beide met een voldoende moeten worden afgesloten, deze zijn niet compenseerbaar. Tellen in totaal dus 10% mee van het eindcijfer wat in de praktijk vaak uitkomt tot 0,2 of 0,3 hoger of lager op het eindcijfer van het vak. Verder is er een eindopdracht product dat mondeling wordt toegelicht. Deze telt 90% mee van het eindcijfer.
 
-Het slagingspercentage van de eerste kans is best laag.
+#### Rubric
+Voor de eindbeoordeling van het product maken we gebruik van onderstaande rubric. Het beoordelignsformulier en de daarbij behorende criteria zijn technisch van aard en voelt voor mij als docent nog iets teveel als een afvinklijstje. We kijken of onderdelen van een programmeertaal zijn toegepast maar niet per se of deze 'juist' of 'nuttig' in het gehele product zijn verwerkt. **Verder staat er bij elk criteria 'de student kan deze uitleggen' iets wat in de praktijk, tijdens een mondeling van 15 minuten, lastig is om goed te toetsen.**
+
+![Rubric Inleiding programmeren](../bijlage/screenshots/rubric-programmeren.png)
+*Rubric Inleiding programmeren*
+
+Wat vooral opvalt bij de toetsing van inleiding programmeren, maar dit is nagenoeg hetzelfde voor meerdere technische vakken, is dat het **rendement (slagingspercentage) van de eerste kans vaak wat aan de lage kant is** ten opzichte van andere vakken binnen de propedeuse. We bestempelen (als docenten) dat vak als 'inherent aan een technisch vak'. Het rendement bij de tweede kans is vaak hoger en dan maakt het cijfer vaak een sprong. 
+
+In de eerste kans geven we denk ik (waaronder ikzelf) vaak een 4/5 omdat het nog 'net niet goed is' en bij de herkansing resulteren de aanvullingen vaak tot meteen een 7 of hoger. De oorzaak is misschien de minimale criteria van de rubric, met deze kan je vaak slechts een 6 halen. **Het lijkt me dat een basis beheersing van de lesstof tot een ruime voldoende zou moeten leiden, niet net aan voldoende.**.
+
+#### Kwaliteitscriteria
+
+* **Validiteit**: Voor de M.C. Toets gaat het puur om kennis van de student toetsen als een soort van tussentijdse check maar zegt niets over toepassen. Je kan JavaScript leren als taal maar toepassen is juist het lastige van programmeren. Het geeft wel druk voor de student om de theorie ook daadwerkelijk te lezen.
+* **Betrouwbaarheid:** M.C. toets is digitaal in de les onder dezelfde omstandigheden. Er is een databank dus de vragen worden gerouleerd en zijn qua niveau redelijk gelijk. Het moeilijke aan de mondelinge toets is de tijdsduur. Understanding toetsen in 15 / 20 minuten per student is lastig. Wat helpt is om live wijzigingen te vragen van de student tijdens het mondeling.
+* **Transparantie**: Voor de M.C. toets worden voorbeeldvragen gegeven en klassikaal besproken. Het beoordelingsformulier word in de les besproken en studenten kunnen feedback vragen over hun concept. De beoordeling procedure en criteria staan op Brightspace vanaf het begin van het vak.
+* **Leerfunctie**: De M.C. Toets geeft druk voor de studenten om de stof bij te houden en het bloek te blijven lezen. De eindopdracht zorgt ervoor dat ze die moeten toepassen. Na het maken van de eindopdrachten zijn er vaak nog verbeterpunten te noemen maar weinig studenten raken na een voldoende hun code nog aan. Een inlevermoment (zeg een week) voor de eindopdracht en daar als docent kort feedback op geven kan de leerfunctie nog iets aansterken. 
+
+Na de beoordelingen worden de ingevulde rubrics met de studenten gecomunniceerd en op Brightspace geplaatst. Als de student een herkansing moet doen is er vaak nog een moment om tussentijd (voor de tweede beoordeling) feedback te vragen.
+
+#### Toetscyclus
+
+Bij een aantal andere vakken binnen CMD vind ik dat **vooral de laatste stappen van de toetcyclus (vanaf stap 5) wat verwaarloosd worden**. Vaak na het afnemen van het mondeling duurt het lang voordat cijfers naar studenten gecomuniceerd worden, goed in Brightspace worden gezet maar ook dat er weinig met de resultaten gedaan wordt. Slagingspercentages en rendement zeggen niet alles maar kan wel een punt in de vakevulatie zijn. Bij inleiding programmeren is dit eigenlijk het eerste vak (naast de vakken die ik zelf coordineer) waar ik het gevoel had dat actief en uitgebreid de resultaten tussen verschillende docenten met elkaar worden gedeeld.
 
 ### Alignment
-Grotendeels. Ik zie enigszins een 'gat' tussen een aantal leerdoelen en de leeractiviteiten. Voor 2 leerdoelen zullen studenten ze 'aanraken' tijdens het maken van de eindopdracht maar in het vak zijn er geen leeractiviteiten die dat ondersteunen. Een aantal leerdoelen gaan over reflecteren en begrip en naast het mondeling zijn ook daar in het vak niet direct leeractiviteiten voor. Wel vind ik dat de toetsactiviteiten aansluiten bij wat er getoetst moet worden.
+Grotendeels. Ik zie enigszins een 'gat' **tussen een aantal leerdoelen en expliciete leeractiviteiten die deze leerdoelen ondersteunen.** Voor leerdoelen #1 en #7 zullen studenten ze 'aanraken' tijdens het maken van de eindopdracht maar in het vak (en vooral tijdens de lessen) zijn er geen leeractiviteiten die dat ondersteunen. Een aantal leerdoelen gaat over reflecteren en begrip en tijdens het mondeling is het moeilijk om dat goet te toetsen. Code schrijven is 1 ding, maar in het goed kunnen uitleggen zit vaak de kracht. Wel vind ik dat de lesstof aansluit bij wat er getoetst moet worden. Alles wat op het beoordelingsformulier staat komt expliciet terug in de lessen en de theorie die studenten moeten lezen.
 
-Al kan er worden afgevraagd of er voor de M.C. Toets nog een betere toetsvorm gevonden kan worden om kennis te meten. Verder vind ik dat er weinig diversiteit in het studiemateriaal zit, verschillende bronnen, vormen van lesmateriaal (alleen boek). Als een leerdoel bronnen raadplegen is zit dat niet goed genoeg in het vak.
+Al kan er worden afgevraagd of er voor de M.C. Toets nog een betere toetsvorm gevonden kan worden om puur kennis te meten of op een meer formatieve manier dat te doen. Verder vind ik dat er weinig diversiteit in het studiemateriaal zit, verschillende bronnen, vormen van lesmateriaal (alleen boek). Als een leerdoel 'verschillende bronnen raadplegen is' bevorderen we door alleen een boek te geven dat leerdoel niet.
 
 ### Evaluaties
 
+Een aantal positieve en negatieve punten van de vakken uit de evaluaties. De docentenvaluaties zijn opgesteld door de coördinator in samenwerking met alle docenten van het vak. De studentenevaluatie is in de vorm van een blokenquete op DLO.
+
 #### Studentenevaluatie (blokenquete)
+* Live-coding werkt goed, studenten vinden het fijn als een docent stap voor stap door een technische opdracht loopt en gedurende de uitleg problemen oplost.
+* Studenten waarderen de huiswerkhulp van onze studievereniging, er komen alleen weinig mensen op af. Er wordt weinig gebruik van gemaakt.
+* 'Beginnende' studenten zijn vaak heel trots op het eindresultaat en wat ze tijdens de vakken hebben bereikt.
+* Veel theoretische manier van stof overbrengen (boek lezen) weinig visueel.
+* Studenten vinden het fijn dat ze autonomie krijgen over de eindopdracht en ze aan iets kunnen werken wat ze 'leuk' vinden.
+* Het "leren zoeken" van informatie, door studenten dit zelf voor te laten doen, wordt door studenten ervaren als onkunde van de docent.
+* Enkele studenten gaven aan dat ze het vreemd vonden dat ze met de minimale criteria slechts een 6 konden halen. Lesstof moet tot een ruime voldoende kunnen leiden.
+* Studenten geven aan het tempo van de hoorcolleges iets aan de hoge kant is, ook het tempo van het gehele vak.
+* Sommige studenten gaven aan te geven dat veel van de bronnen in het engels zijn en dat als lastig ervaren.
 
 #### Docentenevaluatie (vakevaluatie)
+* Aanwezigheid tijdens de lessen is een groot probleem. Er is geen aanwezigheidsplicht, studenten hebben de lessen echt nodig om vragen te stellen en de opkomst laat soms te wensen over.
+* Het idee met de pistes (indelen op niveau) werkt goed om studenten te groeperen.
+* Student naar elkaars welk laten kijken is nuttig, de feedback die ze elkaar geven om verder vooruit te komen is niet (heel) waardevol.
+* De oefeningen kunnen iets meer aansluiten op de eindopdracht die ze gaan maken. Zodat de studenten elke keer oefenen met iets dat min of meer direct in de opdracht is toe te passen.
+* Minder bronnen (elke week 1 bron willen laten doornemen). En daar dan iets explicieter iets mee doen.
+* Er is behoefte aan een student-assistent om alle vragen van de studenten te beantwoorden. Meer dan 15 studenten helpen is te belastend voor de docent. Het werven van deze assisten is lastig.
+* Periode van 5/6 weken is soms nog te kort om de 'horde' te nemen die hoort bij programmeren.
+* Docenten merkte op dat studenten weinig klassikale vragen stellen tijdens het practicum maar dat wel doen als de docent rondloopt. We moeten studenten meer stimuleren om klassikaal vragen te stellen.
 
-### Probleemstelling
-Een aantal van deze dingen op de lijst komen structuureel terug uit de vakevaluaties en blokenquetes. 
-* Studenten beginnen te laat met de eindopdracht.
-* Studenten krijgen bijles maar die studenten helpen ze niet echt maar maken hun huiswerk. Veel andere studenten maken hun huiswerk.
+### Verbeterpunten
+Na deze analyse en de punten uit de evaluaties kom ik in grote lijnen tot de volgende (grote) verbeterpunten waar tijdens het herontwerp van `tech-0` rekening mee gehouden moet worden:
+
+**Studenten beginnen te laat met de eindopdracht**  
+Er is een (te grote) groep studenten die te laat 'echt' begint. Het gat van de tussenopdrachten in de les en de eindopdracht ervaren studenten als groot. De student moet op het eind een grote inspanning leveren en een docent heeft veel verachting in de laatste weken. Een betere spreiding en eerder naar de eindopdracht toewerken. Dit kan wellicht door halverwege of op een meer systematische manier formatieve (of zelfs summatieve) toetsen af te nemen, zodat het voor een groep studenten een aanleiding is om halfweg al een grotere inspanning te leveren.
+
+**De huidige technische vakken focussen te veel op cognitieve skills**  
+De focus ligt op pogrammeertalen leren en toepassen in plaats van een bredere kijk op techniek met betrekking tot bedrijfsleven en eigen ontwikkeling verder in de studie. In het vak moeten systematisch meer praktijkvoorbeelden komen of relaties worden gelegd met de andere vakken binnen dat blok of een duidelijkere koppeling naar een overkoepelend project.
+
+**Meer nadruk op blended learning (leerniveau's & out-of class activities)**  
+Meer ruimte voor out-of class activities en blended learning. Thuis video's kijken, docenten die screencasts opnemen met live demo's. Studenten moeten meer hun eigen leerpad kunnen bepalen (indelen op niveau). Meer aandacht voor studenten die het een en ander al weten, uitdagende opdrachten geven en als docent meedenken over persoonlijke leerdoelen.
+
+**Het is lastig om non-techies aan het prototypen te krijgen met techniek**  
+Het lukt niet om non-techies aan het prototypen te krijgen. Maar misschien is dit ook onhaalbaar. De vraag is of we echt 'programmeren' niet meer moeten verplaatsen naar latere jaar (profilering techniek in het tweede jaar) en 'enthousiasme' voor prototype en technologie naar de propedeuse. Dit resulteerd wellicht in minder 'skills' aan het eind van de propedeuse.
+
+
+---
+👋 _Dank voor het lezen._
+
+-- Danny de Vries
 
 ### Bronnen
 * Vakevaluaties internetstandaarden (studiejaar 17/18 & 18/19 - via moodle)
@@ -164,6 +221,10 @@ Een aantal van deze dingen op de lijst komen structuureel terug uit de vakevalua
 * Dee Fink. (2013). Creating Significant Learning Experiences.
 * Veronica Bruijns. (2020) Kennisclip Toetscyclus en kwaliteit Toetsing.
 * Margot van Rotterdam. (2020). Kennisclip Constructive Alignment. 
+* Cees van der Vleuten. Programmatisch toetsen. (score.hva.nl)
+* Veronica Bruijns. Ontwikkelingen op toetsgebied. (score.hva.nl)
+* Studenten betrekken bij toetsing. (score.hva.nl)
+* ScienceGuide (2020). Toolgericht of doelgericht. (geannoteerd)
 
 ### Bijlage
 * [Volledige analyse internetstandaarden (op GitHub)][is]
