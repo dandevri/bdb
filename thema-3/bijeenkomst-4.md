@@ -45,5 +45,34 @@ Kwaliteitscriteria:
 
 ## Score.hva.nl pagina's
 
+### Programmatisch toetsen
+Er zijn veel methodes, maar elke heeft limitaties. Niet 1 methode kan alles doen, maar samen of in combinatie zijn ze heel krachtig. Optimaliseren het gehele assessment, niet 1 beoordeling. Met die meerdere datapunten gedurende het blok kun je tot een eindoordeel komen. Waardoor je misschien de al mighty beoordeling aan het einde kunt omzeilen? Hoe meer datapunten hoe meer nakijken maar welke kleine stappen.
+
+### Studenten betrekken bij toetsing 
+Motiveren om aan eigen leerdoelen te werken (zelf moeten benoemen wat ze willen leren). Docenten kunnen studenten hun eigen leerdoelen laten bepalen en ze zelf de middelen laten kiezen waarmee ze leerdoelen behalen. Om hun leerdoelen te bereiken is het belangrijk dat studenten de kans krijgen te ontdekken, onderzoeken en leren om problemen aan te pakken.
+
+Docenten kunnen met studenten overeenstemming bereiken over de interpretatie van beoordelingscriteria door ze toe te lichten, voorbeelden te geven van uitgewerkte opdrachten. Het verduidelijken van beoordelingsstandaarden kan prestaties van studenten verhogen.
+
+* Self-assessment: alle oordelen van studenten over hun eigen werk waardoor ze hun leervaardigheden ontwikkelen (4). Het leren beoordelen van eigen werk is een doel binnen het hoger onderwijs.
+* Peer-assessment; een proces waarin studenten elkaars werk evalueren met behulp van beoordelingscriteria.
+
+### Toetsen met ICT
+- bij het ontwikkelen van vragen en opdrachten, bijvoorbeeld een itembank
+- als een upload-omgeving voor gemaakt werk
+- als beoordelingstool met geautomatiseerde feedback
+- als omgeving voor peerfeedback
+- als e-Portfolio voor het archiveren van toetsproducten
+
+Door te automatiseren houden docenten meer tijd over voor het geven van onderwijs.
+
+Learning analytics is het verzamelen, analyseren en interpreteren van data over studenten in het onderwijs. De verzamelde data worden ingezet ter verbetering van het onderwijs.
+
+### Toetslandschap
+Meer leren, minder toetsen. Er is steeds meer aandacht voor doorlopende ontwikkeling van de competenties van studenten. Studenten krijgen meer ruimte om hun eigen leerpad te bepalen en daarmee ook meer invloed op de toetsing.
+
 ## Bronnen
 * Veronica Bruijns. Kennisclip Toetscyclus.
+* Cees van der Vleuten. Programmatisch toetsen. (score.hva.nl)
+* Veronica Bruijns. Ontwikkelingen op toetsgebied. (score.hva.nl)
+* Studenten betrekken bij toetsing. (score.hva.nl)
+* Toetsen en ICT. (score.hva.nl)

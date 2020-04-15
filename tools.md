@@ -25,6 +25,7 @@ Taalontwikkeld lesgeven
 * Typeform
 * [Typeform (voorbeeld)][voorbeeld]
 * [Onzeles.nl][onzeles]
+* Quizlet
 
 ## Toetsing
 * score.hva.nl
