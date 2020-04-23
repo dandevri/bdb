@@ -53,6 +53,12 @@ Het doel van dit thema is het (her)ontwerpen en optimaliseren van je onderwijs v
 
 → [Toetsing](../thema-3/bijeenkomst-4)
 
+### Bijeenkomst 5
+
+*Deze bijeenkomst ging verder over toetsing. We konden vragen stellen aan veronica en werkten verder aan ons ontwerpopdrachten.*
+
+→ [Verdieping Toetsing](../thema-3/bijeenkomst-5)
+
 ### Analyse
 
 *Start met de analyse van een bestaand onderwijsonderdeel. Kies een module, minor of ander onderwijsonderdeel waar jij mee aan de slag wilt gaan met een eigen onderzoek.*
