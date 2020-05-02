@@ -59,6 +59,13 @@ Het doel van dit thema is het (her)ontwerpen en optimaliseren van je onderwijs v
 
 → [Verdieping Toetsing](../thema-3/bijeenkomst-5)
 
+### Bijeenkomst 6
+
+*Pitches over de huidige vorderingen van de analyse en uitleg over het verdere verloop van de BDB*
+
+→ [Pitch Analyse](../thema-3/bijeenkomst-6)
+
+
 ### Analyse
 
 *Start met de analyse van een bestaand onderwijsonderdeel. Kies een module, minor of ander onderwijsonderdeel waar jij mee aan de slag wilt gaan met een eigen onderzoek.*
