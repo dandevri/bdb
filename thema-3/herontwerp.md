@@ -39,6 +39,9 @@ Bij CMD amsterdam zijn we het fundament aan het herontwerpen voor studiejaar 20/
 ![Huidige technische vakken](../bijlage/screenshots/techlijn.png)
 _Overzicht van alle technische vakken in het vernieuwde curriculum en de positie van tech-0. Volledige techlijn op CMD amsterdam._
 
+![Huidige technische vakken](../bijlage/screenshots/know-how.png)
+_Know how versus know why._
+
 **Het krachtige aan `tech-0` is dat dit voor veel studenten de eerste aanraking is met techniek**, websites programmeren in HTML, CSS & JavaScript. Je hebt als coördinator(en docent) eigenlijk vrij spel om deze studenten enthousiast te maken voor web technologie.
 
 Positie van het vak `tech-0` binnen de huidige visie van CMD Amsterdam. Studenten werken hun concepten uit met web technologie, experimenteren met het materiaal in verschillende iteraties. De focus ligt op het uitwerken, niet op het concept, dat leren studenten bij de andere vakken.
