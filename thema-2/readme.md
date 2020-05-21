@@ -18,9 +18,15 @@ In assessment 2 laat je zien door middel van 3 voorbeelden hoe jij je docentrol 
 
 ### Bijeenkomst 1
 
-_Deze bijeenkomst was een kick-off van thema-2 met uitleg over dit thema: jij als docent._
+_Deze bijeenkomst was een kick-off van thema-2 met uitleg over dit thema: jij als docent en ging verder over het begeleiden van leerprocessen volgens de 12 bouwstenen._
 
-→ [Kick-off](../thema-2/bijeenkomst-1)
+→ [Het begeleiden van leerprocessen](../thema-2/bijeenkomst-1)
+
+### Bijeenkomst 2
+
+_Deze bijeenkomst ging over hoe de manier van spreken heeft op hoe jij, als docent, overkomt en welk effect je stemgebruik op een luisteraar kan hebben._
+
+→ [Stem en houding](../thema-2/bijeenkomst-2)
 
 ### Beeldcoaching
 
