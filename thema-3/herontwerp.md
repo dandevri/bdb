@@ -22,10 +22,9 @@ title: Herontwerp
 - [Situational Factors](#situational-factors)
 - [Leerdoelen](#leerdoelen)
 - [Leeractiviteiten](#leeractiviteiten)
-- [Leeromgeving](#leeromgeving)
 - [Toetsing](#toetsing)
 - [Alignment](#alignment)
-- [Deliverables](#deliverables)
+- [Leeromgeving](#leeromgeving)
 - [Feedback](#feedback)
 - [Bronnen](#bronnen)
 - [Bijlage](#bijlage)
@@ -72,6 +71,8 @@ Het is lastig om non-techies aan het prototypen te krijgen met techniek, maar mi
 
 ## Situational Factors
 
+> De situational factors en hoe deze worden beinvloedt voor het herontwerp.
+
 - **Context of learning situation:** In totaal zullen er dus ~20 klassen zijn met elk 25 studenten. In een week zijn er twee werkgroepen van elk 3 lesuren, het liefst aan het begin van de week (op maandag) en verder in de week (op donderdag) zodat studenten in een flow kunnen komen. Het zullen voornamelijk grote klassen zijn (25/30) waardoor het voor docenten lastig is iedereen individueel aandacht te geven. Juist omdat je bij dit vak extra ruimte wilt nemen om studenten die het ‘zwaar’ hebben extra te motiveren. Door kortere lessen met kleinere lesuren forceer je studenten enigszins zich beter voor te bereiden omdat de lestijd wat korter is.
 - **Expectations of External groups:** Op CMD Amsterdam leiden we multidisciplinaire ontwerpers op (T-Shaped designers), oftewel studenten komen in aanraking met verschillende rollen. We verwachten dus dat ondanks een student zich wellicht niet wilt profileren in techniek, elke student een basis heeft om techniek in te zetten of in ieder geval te communiceren met techneuten. Ook vanuit het bedrijfsleven is er steeds meer vraag naar studenten die zowel vormgeving (visual) en techniek (development) kunnen combineren. _Beinvloeden door: praktijkvoorbeelden laten zien, experimentele creative (coding) voorbeelden. Interactie op het web._
 - **Nature of the Subject:** Techniek is constant aan het veranderen, vooral de tooling om techniek heen maar de basis programmeertalen voor het web (HTML, CSS & JavaScript, het fundament) is al vele jaren hetzelfde. Deze fundamentele talen zijn ook het uitgangspunt van dit vak. Alle tooling hieromheen is voor latere jaren. Naast het leren van programmeertalen (cognitie) gaat programmeren ook over probleem oplossend vermogen, bronnen op waarde schatten, documentatie lezen en experimenteren met oplossingen en mogelijkheden. _Beinvloeden door: live demo's (problemen oplossen en fouten maken), verscheidenheid van bronnen, documentatie lezen._
@@ -80,43 +81,95 @@ Het is lastig om non-techies aan het prototypen te krijgen met techniek, maar mi
 
 ## Leerdoelen
 
-> De leerdoelen in dit nieuwe ontwerp. Gebruik daarvoor de taxonomie van Dee Fink of van Bloom.
+> De leerdoelen in het nieuwe nieuwe ontwerp volgens de taxonomie van Dee Fink.
+
+In grote lijnen zijn de overkoepelende doelen voor `tech-0`:'
+
+1. **Materiaalkennis vergroten:** spelen en experimenteren met web techologie.
+2. Een een **basis code literacy** ontwikkelen.
+3. **Herkennen en beleven** van interactie op het web.
+4. **Inzicht krijgen in de mogelijkheden** van web technologie
+
+_Over een paar jaar, nadat dit vak is afgelopen wil ik dat studenten **techniek als ontwerptool kunnen inzetten.**_ Op basis van deze visie heb ik een hele lijst met uigangspunten voor dit vak geschreven en de in de taxonomy of significant learning geplaatst met het idee om deze vervolgens tot in meer detail uit te schrijven tot 5/6 concrete leerdoelen.
+
+![Learning goal](../bijlage/screenshots/significant-goals.png)
+_Taxonomy of Significant Learning Goals voor tech-0._
+
+Op basis van deze uitgangspunten kom ik tot de volgende leerdoelen:
+
+| Leerdoel                                                          | Taxonomie     |
+| ----------------------------------------------------------------- | ------------- |
+| Je hebt basiskennis over hoe een website en het internet werkt    | Remembering   |
+| Je begrijpt de rol van web technologie als ontwerper              | Understanding |
+| Je kan spelen en experimenteren met web technologie               | Applying      |
+| Je snapt de mogelijkheden en beperkingen van web technologie      | Evaluating    |
+| Je maakt een interactief prototype met behulp van web technologie | Creating      |
+
+Op basis van de BokSA die binnen de tech-expertise groep is gemaakt kom ik tot de volgende subleerdoelen die iets dieper ingaan op de vakinhoud:
+
+| Subleerdoelen                                                                              |
+| ------------------------------------------------------------------------------------------ |
+| Je kent de basis van webstandaarden zoals HTML, CSS & JavaScript                           |
+| Je kunt een rapid prototype online zetten en je interacties testen met gebruikers          |
+| Je kunt de browser en developer tools inzetten als ontwerptool om je website te analyseren |
+| Je kunt een proof of concept (ontwerp) met interacties omzetten in werkende code           |
+| Je kunt code van anderen lezen en gebruiken voor je eigen oplossing                        |
+| Je verkent meerdere mogelijkheden en vergelijkt technische oplossingen                     |
+
+Verder sluit `tech-0` aan bij **Begrijpen en kaderen** (analyseren), **Conceptualiseren** (synthetiseren), **Verbeelden en maken** (concretiseren) en **Onderzoeken** (reflecteren) als CMD Competenties.
+
+Voor deze leerdoelen en subleerdoelen worden in de volgende sectie leeractiviteiten en vervolgens aansluitende toetsing gemaakt.
 
 ## Leeractiviteiten
 
-> Leer- en docentactiviteiten die passen bij de leerdoelen en bij de toetsing en bij het gewenste niveau van leren (diepte of oppervlakte). Je moet het herontwerp kunnen uitleggen gebaseerd op Constructive Alignment.
+> Leer- en docentactiviteiten die passen bij de leerdoelen en bij de toetsing.
 
-![Huidige technische vakken](../bijlage/screenshots/werkgroep.png)
+De werkgroepen zijn zoveel mogelijk opgezet om studenten **actief te laten leren**. Na een korte ondersteunende instructie gaan studenten actief met die stof aan de slag in de vorm van een opdracht. Verdere uitgangspunten voor activiteiten zijn:
+
+- Snel, fun en trots: **resultaatgericht**. Na een les hebben studenten meteen opdrachten gemaakt die ze met trots aan papa en mama kunnen laten zien. Het resultaat zou in eerste instantie misschien wel belangrijker moeten zijn dan de daadwerkelijk geschreven code.
+- Het leren moet het resultaat zijn van het **oplossen van een probleem.** Een technische uitdaging kunnen ontleden, de student moet stapsgewijs denken (pseudocode).
+- **Herkennen en beleven** van interactie op het web. Inzicht krijgen in de mogelijkheden van web technologie en technische haalbaarheid van een ontwerp.
+- **Experimenteren en varieren** in de uitwerking van de opdrachten. Meerdere mogelijkheden hebben onderzocht en uitgewerkt en daarop reflecteren en keuzes.
+
+![Opzet werkweek](../bijlage/screenshots/active-learning-diagram.png)
+_Actief leren diagram met mogelijke interventies._
+
+Hierna ben ik aan de slag gegaan met een weekopzet en een lesopzet ook om proberen de structuur en de flow van de studenten te visualiseren. Binnen een les probeer ik zoveel mogelijk de _bouwstenen van effectieve didactiek_ te verwerken.
+
+![Opzet werkweek](../bijlage/screenshots/werkgroep.png)
 _Opzet van de week inclusief werkgroepen._
-
-Eerst les een check-in om leerlevel te bepalen (pistes).
 
 De vakinhoud is gebasseerd op de BoKSA (Body of Knowledge and Skills) die is opgesteld door de tech-expertise groep.
 
+![In and out of class](../bijlage/screenshots/class-activities.png)
+_In and out of class activities._
+
+### Weekopzet
+
+- Week 1: Opening, leuke opdracht introductie web technologie. Voorbeelden uit praktijk laten zien. (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt. (criteria and standards)
+- Week 2/5: Formatieve toetsing (opdrachten inleveren), FIDelity feedback.
+- Week 6: Self-assesments: zichzelf en elkaar beoordelen op de rubrics. Eigen voortang evalueren etc.
+
+Eerst les een check-in om leerlevel te bepalen (pistes).
 Thema's web & wereld:
-
-- Toegankelijkheid
-- Ethiek
-- Privacy
-- Bedrijfsleven / budget agency wereld
-
-## Leeromgeving
-
-> De nieuwe studiehandleiding en/of de communicatie naar studenten. Playground, inrichting DLO etc.
 
 ## Toetsing
 
-> Een toets of assessment die past bij de leerdoelen. Onderbouw aan de hand van de toetscyclus. Laat zien dat de toets aanzet tot leren.
+> Toetsing en assessment die passen bij de leerdoelen aan de hand van de toetscyclus.
+
+Voor summatieve toesen wil ik eigenlijk twee dingen doen: studenten een product laten opleveren als website met micro-interacties en een logboek voor web & wereld.
+
+Binnen het vak meer op **vaardigheden toetsen dan op kennis**.
 
 _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl_
 
 ## Alignment
 
-> Key components of intergrated course design. Model met pijlen aangeven wat er verbeterd is.
+> Check of alle componenten (leerdoelen, toets en leeractiviteiten) verbonden en geïntegreerd zijn
 
-## Deliverables
+## Leeromgeving
 
-> Linken naar de studiegids tekst, class website etc.
+> De nieuwe studiehandleiding en/of de communicatie naar studenten. Playground, inrichting DLO etc.
 
 ## Feedback
 
