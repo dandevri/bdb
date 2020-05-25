@@ -144,22 +144,42 @@ De vakinhoud is gebasseerd op de BoKSA (Body of Knowledge and Skills) die is opg
 ![In and out of class](../bijlage/screenshots/class-activities.png)
 _In and out of class activities._
 
-### Weekopzet
+Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen.
 
-- Week 1: Opening, leuke opdracht introductie web technologie. Voorbeelden uit praktijk laten zien. (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt. (criteria and standards)
-- Week 2/5: Formatieve toetsing (opdrachten inleveren), FIDelity feedback.
-- Week 6: Self-assesments: zichzelf en elkaar beoordelen op de rubrics. Eigen voortang evalueren etc.
-
-Eerst les een check-in om leerlevel te bepalen (pistes).
-Thema's web & wereld:
+- Week 1: Opening, leuke opdracht introductie web technologie. Voorbeelden uit praktijk laten zien. (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt. (criteria and standards). In deze week ook de in-take toets om het niveau van de student te bepalen (leerlevel /pistes).
+- Week 2/5: Formatieve toetsing, tussenopdrachten en voortgang elke week tussentijds inleveren in leeromgeving en als docent FIDelity feedback geven. Monitoren van voortgang en directe feedback terugkoppelen zodat studenten in een flow kunnen komen.
+- Week 6/7: Self-assesments (peer review) zichzelf en elkaar beoordelen en reflecteren op eigen werk en progressie gedurende het vak.
+- Week 8: Eindbeoordelingen en summatief beoordelingsmoment.
 
 ## Toetsing
 
 > Toetsing en assessment die passen bij de leerdoelen aan de hand van de toetscyclus.
 
-Voor summatieve toesen wil ik eigenlijk twee dingen doen: studenten een product laten opleveren als website met micro-interacties en een logboek voor web & wereld.
+Als uitgangspunt wil ik binnen het vak meer op **vaardigheden toetsen dan op kennis**.
 
-Binnen het vak meer op **vaardigheden toetsen dan op kennis**.
+Voor _summatieve toetsen_ wil ik twee toetsvormen gebruiken:
+
+1. Studenten coderen een _website met micro-interacties_ als **product (praktijkopdracht)** en die met een _mondelings toets_ aan de hand van een _Rubric_ beoordelen met een _becijfering_ aan het eind van het vak.
+2. Studenten houden gedurende het vak een _logboek (productbiografie)_ bij over de theorie van _web & wereld_ en leveren deze aan het eind van het vak in. Dit logboek is denk ik een combinatie van een **kennistoets en reflectieopdracht**. Deze wordt beoordeeld met _o/m/v/g/_.
+
+Omdat de focus ligt op vaardigheden en niet op kennis wil ik de weging van het product 70% maken en het logboek voor 30% laten meetellen. De onderdelen zijn niet compenseerbaar omdat beide belangrijk zijn om aan alle leerdoelen te voldoen.
+
+Voor beide summatieve toetsen wil ik gebruik maken van een **rubric** om de onderdelen te beoordelen vanwege de volgende redenen:
+
+- Transparent voor studenten etc.
+
+Daarnaast wil ik twee toetsvormen gebruiken voor formatieve toetsing gedurende het vak.
+
+1. Een **intaketoets** aan het begin van het vak om het beginniveau van de student te bepalen en de student aan de hand daarvan in te delen in een leerniveau.
+2. Op de helft van het week een formatief **voortangstoets** om studenten te pushen om tussentijds al een grote inspanning te leveren voor het product aan het eind.
+3. Gedurende het eind van het vak een **peer assessment** inzetten voor het product waarbij studenten elkaar beoordelen aan de hand van het beoordelingsformulier.
+
+Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_.
+
+De toetsing voor het vak zou er in een schematische weergave zo uitzien:
+
+![In and out of class](../bijlage/screenshots/schema-toetsing.png)
+_Schematische weergave formatieve en summatieve toetsmomenten._
 
 _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl_
 
