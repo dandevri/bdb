@@ -48,7 +48,13 @@ Positie van het vak `tech-0` binnen de huidige visie van CMD Amsterdam. Studente
 ![Huidige technische vakken](../bijlage/screenshots/spaces.png)
 _Positie van het vak in de project spaces van CMD amsterdam (CMD visie op ontwerpen 2019)._
 
-_De opzet van dit document van dit herontwerp volgt de stappen van **intergrated course design** uit Creating Significant Learning Experiences van Dee Fink._
+_De opzet van dit document van dit herontwerp volgt de stappen van **intergrated course design** uit Creating Significant Learning Experiences van Dee Fink. Dit herontwerp is ook vooral de opzet van `tech-0` vak niet per se de vakinhoud._
+
+**Uitgangspunten (wens):**
+
+- Blijvende verandering met betrekking tot techniek en coderen in de verdere carriere van de student
+- Voorbeelden op de praktijkgericht (resultaatgericht) die aansluiten bij het werkveld, maar ook kennis meegeven die in het werkveld vaak onderbelicht is.
+- Vak waar ze inhoudelijk in hun loopbaan wat aan gaan hebben, techniek inzetten om hun ontwerp te realiseren.
 
 ## Verbeterpunten Analyse
 
@@ -67,7 +73,7 @@ De focus ligt op pogrammeertalen leren en toepassen in plaats van een bredere ki
 Meer ruimte voor out-of class activities en blended learning. Thuis video's kijken, docenten die screencasts opnemen met live demo's. Studenten moeten meer hun eigen leerpad kunnen bepalen (indelen op niveau). Meer aandacht voor studenten die het een en ander al weten, uitdagende opdrachten geven en als docent meedenken over persoonlijke leerdoelen.
 
 **Studenten enthousiasmeren en laten spelen (klooien) met techniek**  
-Het is lastig om non-techies aan het prototypen te krijgen met techniek, maar misschien is dit ook onhaalbaar. Het echt 'programmeren' moet meer verplaats worden naar latere jaar, aansluitende vakken aan `tech-0` of de profilering techniek in het tweede jaar en 'enthousiasme' voor prototype en technologie naar de propedeuse. Het is vaak taaie technische stof en studenten zien niet de mogelijkheden van web technologie. Dit resulteerd wellicht in minder 'skills' aan het eind van de propedeuse maar gedurende de langere leerlijn van het curriculum heeft dit wellicht het gewenste effect namelijk enthousiasme voor techniek.
+Het is lastig om non-techies aan het prototypen te krijgen met techniek, maar misschien is dit ook onhaalbaar. Het echt 'programmeren' moet meer verplaats worden naar latere jaar, aansluitende vakken aan `tech-0` of de profilering techniek in het tweede jaar en 'enthousiasme' voor prototype en technologie naar de propedeuse. Het is vaak taaie technische stof en studenten zien niet de mogelijkheden van web technologie. Dit resulteerd wellicht in minder 'skills' aan het eind van de propedeuse maar gedurende de langere leerlijn van het curriculum heeft dit wellicht het gewenste effect namelijk enthousiasme voor techniek.'
 
 ## Situational Factors
 
@@ -139,47 +145,71 @@ Hierna ben ik aan de slag gegaan met een weekopzet en een lesopzet ook om prober
 ![Opzet werkweek](../bijlage/screenshots/werkgroep.png)
 _Opzet van de week inclusief werkgroepen._
 
-De vakinhoud is gebasseerd op de BoKSA (Body of Knowledge and Skills) die is opgesteld door de tech-expertise groep.
+De vakinhoud is gebasseerd op de BoKSA (Body of Knowledge and Skills) die is opgesteld door de tech-expertise groep. Studenten kunnen in een flow komen door thema’s per week, daarbij aansluitende opdrachten, directe feedback op die opdrachten en de formatieve toetsmomenten als mijlpalen. Door de formatieve momenten bouw je een soort 'check in' waarbij je het werk waar de studenten naartoe werk kunt bijsturen.
 
 ![In and out of class](../bijlage/screenshots/class-activities.png)
 _In and out of class activities._
 
-Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen.
+Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens naar inde les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen.
 
 - Week 1: Opening, leuke opdracht introductie web technologie. Voorbeelden uit praktijk laten zien. (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt. (criteria and standards). In deze week ook de in-take toets om het niveau van de student te bepalen (leerlevel /pistes).
 - Week 2/5: Formatieve toetsing, tussenopdrachten en voortgang elke week tussentijds inleveren in leeromgeving en als docent FIDelity feedback geven. Monitoren van voortgang en directe feedback terugkoppelen zodat studenten in een flow kunnen komen.
-- Week 6/7: Self-assesments (peer review) zichzelf en elkaar beoordelen en reflecteren op eigen werk en progressie gedurende het vak.
+- Week 6/7: Self-assesments (peer review) zichzelf en elkaar beoordelen en reflecteren op eigen werk en progressie gedurende het vak. Het leren beoordelen van eigen werk is een doel binnen het hoger onderwijs.
 - Week 8: Eindbeoordelingen en summatief beoordelingsmoment.
 
 ## Toetsing
 
 > Toetsing en assessment die passen bij de leerdoelen aan de hand van de toetscyclus.
 
-Als uitgangspunt wil ik binnen het vak meer op **vaardigheden toetsen dan op kennis**.
+Als uitgangspunt wil ik binnen het vak meer op **vaardigheden toetsen dan op kennis**. `tech-0` blijft in dat opzich wel een kennisvak omdat het in het fundament (propedeuse) van onze opleiding zit en dus vooral op onthouden, begrijpen en toepassen zitten binnen de taxonomie van Bloom. HBO studenten willen denk ik meer uit de praktijk leren, misschien minder uit de theorie. Dus vanuit toepassen vertrekken en dan theorie eraan koppelen of deze later bij de andere technische vakken terug laten komen.
 
 Voor _summatieve toetsen_ wil ik twee toetsvormen gebruiken:
 
-1. Studenten coderen een _website met micro-interacties_ als **product (praktijkopdracht)** en die met een _mondelings toets_ aan de hand van een _Rubric_ beoordelen met een _becijfering_ aan het eind van het vak.
+1. Studenten coderen een _website met micro-interacties_ als **product (praktijkopdracht)** en die met een _mondelings toets_ aan de hand van een _Rubric_ beoordelen met een _becijfering_ aan het eind van het vak. Mijn idee is wel om de studenten veel autonomie te geven over de invulling van de opdracht. Ik wil dat studenten de kans krijgen om te ontdekken, onderzoeken en leren om problemen aan te pakken en daarmee op hun eigen manier aan de leerdoelen kunnen voldoen.
 2. Studenten houden gedurende het vak een _logboek (productbiografie)_ bij over de theorie van _web & wereld_ en leveren deze aan het eind van het vak in. Dit logboek is denk ik een combinatie van een **kennistoets en reflectieopdracht**. Deze wordt beoordeeld met _o/m/v/g/_.
 
 Omdat de focus ligt op vaardigheden en niet op kennis wil ik de weging van het product 70% maken en het logboek voor 30% laten meetellen. De onderdelen zijn niet compenseerbaar omdat beide belangrijk zijn om aan alle leerdoelen te voldoen.
 
-Voor beide summatieve toetsen wil ik gebruik maken van een **rubric** om de onderdelen te beoordelen vanwege de volgende redenen:
-
-- Transparent voor studenten etc.
+- Product: 70% weging
+- Logboek: 30% weging
+- Compenseerbaar: Nee (beide minimaal een voldoende)
+- Het eindcijfer van de onderwijseenheid is het gemiddelde van deze voldoendes.
 
 Daarnaast wil ik twee toetsvormen gebruiken voor formatieve toetsing gedurende het vak.
 
-1. Een **intaketoets** aan het begin van het vak om het beginniveau van de student te bepalen en de student aan de hand daarvan in te delen in een leerniveau.
-2. Op de helft van het week een formatief **voortangstoets** om studenten te pushen om tussentijds al een grote inspanning te leveren voor het product aan het eind.
-3. Gedurende het eind van het vak een **peer assessment** inzetten voor het product waarbij studenten elkaar beoordelen aan de hand van het beoordelingsformulier.
+1. Een **intaketoets (feedback)** aan het begin van het vak om het beginniveau van de student te bepalen en de student aan de hand daarvan in te delen in een leerniveau.
+2. Op de helft van het week een formatief **voortangstoets (feedup)** om studenten te pushen om tussentijds al een grote inspanning te leveren voor het product aan het eind.
+3. Gedurende het eind van het vak een **peer assessment (feedforward)** inzetten voor het product waarbij studenten zichzelf en eventueel elkaar beoordelen aan de hand van het beoordelingsformulier. Het eindcijfer mag wat mij betreft nooit tot een verassing komen.
 
-Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_.
+Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_. De valkuil van het niet becijferen is dat je veel aan het nakijken bent en dan aan het eind nog eens als summatieve toets. Misschien moeten de formatieve toetsen toch enige weging hebben in het eindcijfer van het vak.
 
 De toetsing voor het vak zou er in een schematische weergave zo uitzien:
 
 ![In and out of class](../bijlage/screenshots/schema-toetsing.png)
-_Schematische weergave formatieve en summatieve toetsmomenten._
+_Schematische weergave formatieve en summatieve toetsmomenten (toetsprogramma)._
+
+Ik probeer hier dus ook verschillende toetsvormen te combineren, niet 1 methode kan alles doen maar samen worden ze krachtig.
+
+Het logboek gaat hier dus vooral over onthouden en begrijpen binnen de taxonomie van Bloom en het product gaat meer naar deep level learning waarbij studenten de stof moeten toepassen in hun eigen website (product), analyseren en evalueren over hun gemaakte werk en progressie. Product en logboek (assessment) is meer affectief en het logboek is meer cognitief.
+
+De formatieve momenten gaan over de tussenstappen, het leren activeren en leren van dat toetsmoment. In de laatste weken zijn dus de summatieve toetsen, dan eindigt het leren.
+
+De uiteindelijke beoordelingen zijn dus vooral **criteriumgericht**. De student toont met de toets aan de hand van een rubric aan in welke mate deze criteria (leerdoelen) zijn behaald. Aan de hand van de intaketoets en de self-assessment aan het einde van de toets zie ik ook nog een kans om ipsatief te toetsen maar wat de precieze invullen zou zijn vind ik moeilijk uit te werken. Wat ik verder nog lastig vind is (waarschijnlijk werkvormen) vinden waar studenten actief met de feedback aan de slag gaan. Studenten moeten feedback om kunnen zetten in acties en kunnen aangeven waar ze feedback op willen ontvangen. De ontvanger (student) moet actief wat met de feedback doen.
+
+**Kwaliteitscriteria:**
+
+- Validiteit: Ik heb er geen twijfel over dat alle docenten (examinator) de producten op vakinhoudelijk niveau kunnne beoordelen. Er zijn heldere en duidelijke beoordelingschaling, voor docenten voeg ik cesuur en norm bepaling toe in de vorm van: voldoende of onvoldoende. Tijdens het vak moet er de mogelijkheid zijn om onderling te callibreren.
+- Betrouwbaarheid: Beide summatieve toetsvormen hebben een beoordelingsinstrument (rubric) die de beoordelingscriteria bevatten. In een rubric is het over het algemeen heel helder wat de score is voor een voldoende en daarmee ook de cesuur bepaling voor docenten. De rubric geeft ook ruimte voor feedback (eventuele ophoging van het cijfer).
+- Transparantie: De leerdoelen zijn omgezet naar beoordelingscriteria die duidelijk maakt wanneer de opdracht voldoende of onvoldoende is. Al deze rubrics worden in de les besproken, staan op de leeromgeving. Naast vakinhoudelijke criteria staan er ook formele eisen (vorm) op (AVV's).
+- Leerfunctie: De formatieve toetsmomenten (intake, voortgang en self-assessment) hebben allen een leerfunctie, ze dienen tevens als feedback moment en de student kan op basis van die momenten het product aanpassen en de feedback verwerken.
+
+**Rubrics:**  
+Voor beide summatieve toetsen wil ik gebruik maken van een **rubric** om de onderdelen te beoordelen vanwege de volgende redenen:
+
+- Transparent voor studenten etc.
+- Vierpuntsschaal, waarbij eerst de voldoende is uitgewerkt. Prestatie beschreven in 1 zin. En dan van o/v/g/zg. Ik denk dat de matig niet zo heel zinnig is al kan dat wel een manier zijn om een 'net niet' aan te geven. Een matig heeft misschien meer een leer/ verbeterfunctie dan een harde onvoldoende. Onvoldoende kan meer een 'nog niet' worden.
+
+Alle het gemaakte werk (toetsvormen) worden digitaal ingeleverd in de upload-omgeving van Brightspace. De leeromgeving wordt gebruikt als omgeving voor feedback, analyse, beoordeling en archiveringstool.
 
 _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl_
 
@@ -214,6 +244,10 @@ _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl
 - [BKE Module: Toestcyclus. (score.hva.nl)][bke]
 - [Kennisclip: Waarom een toetsmatrijs? (score.hva.nl)][wet]
 - [Kennisclip: Rubrics for Assessments? (score.hva.nl)][rfa]
+- [Paul van den Bos (2016). Toetsen om te leren. (geannoteerd)](#)
+- [Margo van Rotterdam. Kennisclip Constructive Alignment.](#)
+- [Cees van der Vleuten. Programmatisch toetsen. (score.hva.nl)](#)
+- [Veronica Bruijns. Ontwikkelingen op toetsgebied. (score.hva.nl)](#)
 
 ## Bijlagen
 
