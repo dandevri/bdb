@@ -126,6 +126,11 @@ Verder sluit `tech-0` aan bij **Begrijpen en kaderen** (analyseren), **Conceptua
 
 Voor deze leerdoelen en subleerdoelen worden in de volgende sectie leeractiviteiten en vervolgens aansluitende toetsing gemaakt.
 
+Op affectief niveau willen we de studenten bij `tech-0` vooral onderstaande dingen aanleren en andere afleren.
+
+![Affectief niveau](../bijlage/screenshots/affectief.png)
+_Op affectief niveau, houding emotie en gewoontes afleren._
+
 ## Leeractiviteiten
 
 > Leer- en docentactiviteiten die passen bij de leerdoelen en bij de toetsing.
@@ -137,10 +142,21 @@ De werkgroepen zijn zoveel mogelijk opgezet om studenten **actief te laten leren
 - **Herkennen en beleven** van interactie op het web. Inzicht krijgen in de mogelijkheden van web technologie en technische haalbaarheid van een ontwerp.
 - **Experimenteren en varieren** in de uitwerking van de opdrachten. Meerdere mogelijkheden hebben onderzocht en uitgewerkt en daarop reflecteren en keuzes.
 
+Onze studenten zijn visuele en creatieve studenten. **Show don't tell.** Studenten vinden live demo's en voorbeelden fijn. behoefte aan ‘live-demo’s. Niet in spraak of met tekst voorbeelden geven maar laat het ‘gewoon zien’, ook het stap voor stap schrijven van stukken code.
+
 ![Opzet werkweek](../bijlage/screenshots/active-learning-diagram.png)
 _Actief leren diagram met mogelijke interventies._
 
 Hierna ben ik aan de slag gegaan met een weekopzet en een lesopzet ook om proberen de structuur en de flow van de studenten te visualiseren. Binnen een les probeer ik zoveel mogelijk de _bouwstenen van effectieve didactiek_ te verwerken.
+
+Op basis van de vakkenvuller (en de beschibare uren voor een vak van 3ECTS) mag geloven zijn de uren voor dit vak onder te verdelen in:
+
+- Lesmomenten: Twee lesmomenten per week (2x2 lesuren), niet meer dan 3 uur aaneengesloten.
+- Minimaal 1 dag (liever twee dagen) tussen de werkgroepen.
+- Een vak van 3ECTS mag uitkomen op 60dbu.
+- 2 uur per klas per week inzet van een studentassistent in de werkgroep.
+
+In principe is er dus exclusief toetsing ruimte voor 3 uur (geen lesuren) per week wat grofweg uitkomt op 4 lesuren per week.
 
 ![Opzet werkweek](../bijlage/screenshots/werkgroep.png)
 _Opzet van de week inclusief werkgroepen._
@@ -150,7 +166,7 @@ De vakinhoud is gebasseerd op de BoKSA (Body of Knowledge and Skills) die is opg
 ![In and out of class](../bijlage/screenshots/class-activities.png)
 _In and out of class activities._
 
-Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens naar inde les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen.
+Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens naar inde les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen. Er is daardoor een betere afstemming op de student en samenhang tussen niveau’s binnen een vak (complexiteit). Voor de student is er een mate van vrijheid in de keuze van de leertaken (zie student van tegenwoordig)
 
 - Week 1: Opening, leuke opdracht introductie web technologie. Voorbeelden uit praktijk laten zien. (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt. (criteria and standards). In deze week ook de in-take toets om het niveau van de student te bepalen (leerlevel /pistes).
 - Week 2/5: Formatieve toetsing, tussenopdrachten en voortgang elke week tussentijds inleveren in leeromgeving en als docent FIDelity feedback geven. Monitoren van voortgang en directe feedback terugkoppelen zodat studenten in een flow kunnen komen.
@@ -188,6 +204,19 @@ De toetsing voor het vak zou er in een schematische weergave zo uitzien:
 ![In and out of class](../bijlage/screenshots/schema-toetsing.png)
 _Schematische weergave formatieve en summatieve toetsmomenten (toetsprogramma)._
 
+Ik merk dat studenten over het algemeen kijken naar wat ze nog moeten doen en denken ‘wat veel werk’ maar weinig reflecteren op hun eigen voortgang en deze zichbaar maken (visible learning). Door de voortgangstoets hoop ik dat af te vangen. Studenten krijgen inzicht in hun eigen voortgang zodat ze de regie nemen over het eigen leren.
+
+Naast deze grote toetsmomenten probeer ik ook in ieder geval elke week een kleine opdracht te introduceren die ook formatief is. Op basis van de toolbox formatieve evaluatie heb ik geprobeerd voor elke week een werkvorm in te zetten die passend is bij de vakinhoud. Deze wil ik vooral toepassen bij de web & wereld momenten in de les.
+
+![Formatief evalueren](../bijlage/screenshots/formative.png)
+_Werkvormen voor formatief evalueren tijdens web & wereld_
+
+In het begin zijn de werkvormen vooral bedoeld om kennis te peilen en het leren zichtbaar te maken. Later in het vak gaan de werkvormen steeds meer toe naar leren en bijsturen.
+
+- Wekelijks in de lessen bespreken we de voortgang en behandelen deze klassikaal (kracht van de groep)
+- Op een systematische manier feedback geven (directe feedback)
+- Cultuur van vrijblijvendheid doorbreken (uitstelgedrag)
+
 Ik probeer hier dus ook verschillende toetsvormen te combineren, niet 1 methode kan alles doen maar samen worden ze krachtig.
 
 Het logboek gaat hier dus vooral over onthouden en begrijpen binnen de taxonomie van Bloom en het product gaat meer naar deep level learning waarbij studenten de stof moeten toepassen in hun eigen website (product), analyseren en evalueren over hun gemaakte werk en progressie. Product en logboek (assessment) is meer affectief en het logboek is meer cognitief.
@@ -195,6 +224,12 @@ Het logboek gaat hier dus vooral over onthouden en begrijpen binnen de taxonomie
 De formatieve momenten gaan over de tussenstappen, het leren activeren en leren van dat toetsmoment. In de laatste weken zijn dus de summatieve toetsen, dan eindigt het leren.
 
 De uiteindelijke beoordelingen zijn dus vooral **criteriumgericht**. De student toont met de toets aan de hand van een rubric aan in welke mate deze criteria (leerdoelen) zijn behaald. Aan de hand van de intaketoets en de self-assessment aan het einde van de toets zie ik ook nog een kans om ipsatief te toetsen maar wat de precieze invullen zou zijn vind ik moeilijk uit te werken. Wat ik verder nog lastig vind is (waarschijnlijk werkvormen) vinden waar studenten actief met de feedback aan de slag gaan. Studenten moeten feedback om kunnen zetten in acties en kunnen aangeven waar ze feedback op willen ontvangen. De ontvanger (student) moet actief wat met de feedback doen.
+
+**Eindopdracht:**
+
+- Ik vertel de studenten afraaders en aanraders van wat goede eindopdrachten zijn en veel voorkomende fouten van mensen die het mondeling niet halen.
+- Ik laat een aantal praktijkvoorbeelden zien maar showcase ook het werk van voorgaande jaren
+- Autonomie in de eindopracht
 
 **Kwaliteitscriteria:**
 
@@ -213,31 +248,57 @@ Alle het gemaakte werk (toetsvormen) worden digitaal ingeleverd in de upload-omg
 
 _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl_
 
+## Leeromgeving
+
+> De nieuwe studiehandleiding en/of de communicatie naar studenten.
+
+**Studiehandleiding**
+
+Op basis van dit herontwerp heb ik de volgende studiegids handleiding geschreven.
+
+→ [(Voorlopige) studiehandleiding][studiehandleiding]
+
+**Rubrics**
+
+Ook ben ik aan de slag gegaan met een opzet voor vernieuwede rubrics.
+
+→ [(Voorlopige) rubrics][rubrics]
+
+**Leeromgeving**
+
+De inrichting van DLO wil ik per thema doen. Omdat de vakinhoud nog verder uitgewerkt moet worden is er weinig te zeggen over de concrete inricthing. Er zijn wel een aantal features in Brightspace die erg handig kunnen zijn:
+
+- Het aanmaken van de groepen (pistes) zorgt ervoor dat studenten alleen resources zien voor hun eigen piste.
+
+→ [(Work in progress) syllabus][syllabus]
+
+**Playground**
+
+Naast de leeromgeving is het idee ook om een zogeheten _playground_ te maken waar studenten code snippets en voorbeelden van code kunnen zien zodat ze die in hun eigen project kunnen gebruiken. Daar komen verder ook alle kennisclips met op te staan.
+
+→ [Opzet playground op GitHub][playground]
+
 ## Alignment
 
 > Check of alle componenten (leerdoelen, toets en leeractiviteiten) verbonden en geïntegreerd zijn
 
-## Leeromgeving
+Een goede manier om een check uit te voeren is door het invullen van _worksheet for designing a course_ uit dee fink. Dat geeft ons de volgende schematische weergave:
 
-> De nieuwe studiehandleiding en/of de communicatie naar studenten. Playground, inrichting DLO etc.
+![Worksheet design](../bijlage/screenshots/worksheet-design.png)
+_Worksheet for designing a course._
 
-## Feedback
+Elk leerdoel komt aanbod in ieder geval een van de twee summatieve toetsen. Er is een verscheidenheid aan leerbronnen, zowel voorbeelden als verdiepende artikelen en video's.
 
-#### Onderwijskundige
+![Verbeterpunten](../bijlage/screenshots/alignment.png)
+_Verbeteringpunten course design op basis van analyse_
 
-> Haal feedback op van in ieder geval: een SKE-er van jouw opleiding en nogmaals van de onderwijskundige van jouw faculteit op het herontwerp. Een mooie aanvulling is om feedback van collega-docenten, opleidingsmanager en/of van studenten op het nieuwe ontwerp vragen.
+### Conclusie
 
-#### SKE'er opleiding
+Dit herontwerp begon met een aantal verbeterpunten die tijdens het herontwerp zijn verbeterd. Door het introduceren van web & wereld is er een goede mix van know-why en know-what en verlegt de focus iets weg van puur alleen cognitieve skills, door een aantal formatieve toetsen te introduceren zijn er meer tussentijdse opleveringen, de lesopdrachten, en praktijkvoorbeelden spoort studenten aan te spelen met techniek en de playground geeft ruimte voor leerniveau's en meer blended learning.
 
-> In je kluis is straks duidelijk het feedbackformulier terug te vinden van je SKE-er. (Checklist SKE)
+👋 _Dank voor het lezen._
 
-#### Team (inclusief je werkplekbegeleider)
-
-> Het herontwerp presenteer je in een bijeenkomst op je eigen opleiding. Het resultaat van deze opdracht is je presentatie en de reactie daarop van de aanwezigen bij die presentatie.
-
-#### Leergroep
-
-> Spreek af met jouw leergroep en help elkaar
+-- Danny de Vries
 
 ## Bronnen
 
@@ -248,9 +309,25 @@ _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl
 - [Margo van Rotterdam. Kennisclip Constructive Alignment.](#)
 - [Cees van der Vleuten. Programmatisch toetsen. (score.hva.nl)](#)
 - [Veronica Bruijns. Ontwikkelingen op toetsgebied. (score.hva.nl)](#)
+- [Toolbox Formatief Evalueren](https://formatiefevalueren.kdg.be/overzicht/)
 
 ## Bijlagen
+
+## Feedback
+
+#### Onderwijskundige
+
+#### SKE'er opleiding
+
+#### Team (inclusief je werkplekbegeleider)
+
+#### Leergroep
 
 [bke]: https://score.hva.nl/bke/Paginas/default.aspx
 [rfa]: https://www.youtube.com/watch?v=8EwPlTQzSLM
 [wet]: https://www.youtube.com/watch?v=kp3rANE8z6s
+
+[studiehandleiding]:
+[playground]:
+[rubrics]:
+[syllabus]:
