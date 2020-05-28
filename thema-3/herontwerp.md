@@ -31,7 +31,7 @@ title: Herontwerp
 
 ## Introductie
 
-Bij CMD amsterdam zijn we het fundament aan het herontwerpen voor studiejaar 20/21, een grote curriculumvernieuwing voor de propedeuse. Onze curriculumcommisie overziet dit herontwerp en neemt vooral de organisatorische taak op zich. **Aan mij is door de curriculumcomissie gevraagd om vorm te geven aan het vak `tech-0`, het allereerste technische vak binnen onze opleiding**. Het vak `tech-0` gaat enigszins een vervangingen worden van de huidige technische vakken die we nu in de propedeuse hebben, activiteiten en vakinhoud behouden wat nog relevant is maar in principe mag het vak 'op de schop' (zie analyse voor meer achtergrondinfo).
+Bij CMD amsterdam zijn we het fundament aan het herontwerpen voor studiejaar 20/21, een grote curriculumvernieuwing voor de propedeuse. Onze curriculumcommisie overziet dit herontwerp en neemt vooral de organisatorische taak op zich. **Aan mij is door de curriculumcomissie gevraagd om vorm te geven aan het vak `tech-0`, het allereerste technische vak binnen onze opleiding**. Het vak `tech-0` gaat enigszins een vervangingen worden van de huidige technische vakken die we nu in de propedeuse hebben. We behouden wel wat activiteiten en vakinhoud die relevant zijn maar in principe mag het vak 'op de schop' (zie analyse voor meer achtergrondinfo).
 
 `tech-0` gaat een _verplicht studieonderdeel_ zijn voor elke propedeuse student (3 ECTS). Er zullen 4 clusters zijn met elk ongeveer ~5 klassen, dit vak heeft dus in totaal 20 klassen en voor elk cluster een aparte module coördinatoren (4 in totaal). Het nieuwe vak wordt in blok 1 van het studiejaar aangeboden en is het 'introductie vak' voor techniek van onze opleiding, de grande entree. De andere technische vakken (in de verdere verloop van het studiejaar) sluiten op dit vak aan en geven meer verdieping.
 
@@ -48,20 +48,20 @@ Positie van het vak `tech-0` binnen de huidige visie van CMD Amsterdam. Studente
 ![Huidige technische vakken](../bijlage/screenshots/spaces.png)
 _Positie van het vak in de project spaces van CMD amsterdam (CMD visie op ontwerpen 2019)._
 
-_De opzet van dit document van dit herontwerp volgt de stappen van **intergrated course design** uit Creating Significant Learning Experiences van Dee Fink. Dit herontwerp is ook vooral de opzet van `tech-0` vak niet per se de vakinhoud._
+_De opzet van dit document van dit herontwerp volgt de stappen van **intergrated course design** uit Creating Significant Learning Experiences van Dee Fink. Dit herontwerp is in dat opzicht vooral een opzet van `tech-0` vak niet per se vakinhoudelijk._
 
-**Uitgangspunten (wens):**
+**Uitgangspunten (wensen) voor `tech-0`:**
 
-- Blijvende verandering met betrekking tot techniek en coderen in de verdere carriere van de student
-- Voorbeelden op de praktijkgericht (resultaatgericht) die aansluiten bij het werkveld, maar ook kennis meegeven die in het werkveld vaak onderbelicht is.
-- Vak waar ze inhoudelijk in hun loopbaan wat aan gaan hebben, techniek inzetten om hun ontwerp te realiseren.
+- Blijvende verandering met betrekking tot techniek in het verdere verloop van de student op de opleiding. Enthousiasme voor techniek.
+- Voorbeelden op de praktijkgericht (resultaatgericht) die aansluiten bij het werkveld, maar ook ondewerpen behandleen die in het werkveld vaak onderbelicht zijn.
+- Een vak waar ze inhoudelijk constant in hun loopbaan wat aan gaan hebben, techniek inzetten om hun ontwerp te realiseren.
 
 ## Verbeterpunten Analyse
 
 Aan het eind van de analyse kwam ik tot de volgende verbeterpunten, onderstaande punten zijn de startpunten (uitgangspunten) voor mijn herontwerp:
 
 **Een goede balans tussen _know-why_ en _know-what/how_**  
-De huidige technische vakken gaan snel naar 'the big picture' en focust op het ontwikkelen van code literacy in plaats van resultaatgericht en meteen met code experimenteren. Dat betekend niet dat de 'know-why' onbelangrijk is maar de balans tussen deze twee uiterste kan beter.
+De huidige technische vakken gaan snel naar 'the big picture' en focussen op het ontwikkelen van code literacy in plaats van resultaatgericht en meteen met code experimenteren. Dat betekend niet dat de 'know-why' onbelangrijk is maar de balans tussen deze twee uiterste kan beter.
 
 **Het aansterken van formatieve toetsing en tussentijdse oplevering**  
 Er is een (te grote) groep studenten die te laat 'echt' begint. Het gat van de tussenopdrachten in de les en de eindopdracht ervaren studenten als groot. De student moet op het eind een grote inspanning leveren en een docent heeft veel verwachting in de laatste weken. Een betere spreiding en eerder naar de eindopdracht toewerken zou een goede verbetering zijn. Dit kan wellicht door halverwege of op een meer systematische manier formatieve (of zelfs summatieve) toetsen af te nemen, zodat het voor een groep studenten een aanleiding is om halfweg al een grotere inspanning te leveren.
@@ -80,10 +80,10 @@ Het is lastig om non-techies aan het prototypen te krijgen met techniek, maar mi
 > De situational factors en hoe deze worden beinvloedt voor het herontwerp.
 
 - **Context of learning situation:** In totaal zullen er dus ~20 klassen zijn met elk 25 studenten. In een week zijn er twee werkgroepen van elk 3 lesuren, het liefst aan het begin van de week (op maandag) en verder in de week (op donderdag) zodat studenten in een flow kunnen komen. Het zullen voornamelijk grote klassen zijn (25/30) waardoor het voor docenten lastig is iedereen individueel aandacht te geven. Juist omdat je bij dit vak extra ruimte wilt nemen om studenten die het ‘zwaar’ hebben extra te motiveren. Door kortere lessen met kleinere lesuren forceer je studenten enigszins zich beter voor te bereiden omdat de lestijd wat korter is.
-- **Expectations of External groups:** Op CMD Amsterdam leiden we multidisciplinaire ontwerpers op (T-Shaped designers), oftewel studenten komen in aanraking met verschillende rollen. We verwachten dus dat ondanks een student zich wellicht niet wilt profileren in techniek, elke student een basis heeft om techniek in te zetten of in ieder geval te communiceren met techneuten. Ook vanuit het bedrijfsleven is er steeds meer vraag naar studenten die zowel vormgeving (visual) en techniek (development) kunnen combineren. _Beinvloeden door: praktijkvoorbeelden laten zien, experimentele creative (coding) voorbeelden. Interactie op het web._
+- **Expectations of External groups:** Op CMD Amsterdam leiden we multidisciplinaire ontwerpers op (T-Shaped designers), oftewel studenten komen in aanraking met verschillende rollen. We verwachten dus dat ondanks een student zich wellicht niet wilt profileren in techniek, elke student een basis heeft om techniek in te zetten of in ieder geval kan communiceren met techneuten. Ook vanuit het bedrijfsleven is er steeds meer vraag naar studenten die zowel vormgeving (visual) en techniek (development) kunnen combineren. _Beinvloeden door: praktijkvoorbeelden laten zien, experimentele creative (coding) voorbeelden. Interactie op het web._
 - **Nature of the Subject:** Techniek is constant aan het veranderen, vooral de tooling om techniek heen maar de basis programmeertalen voor het web (HTML, CSS & JavaScript, het fundament) is al vele jaren hetzelfde. Deze fundamentele talen zijn ook het uitgangspunt van dit vak. Alle tooling hieromheen is voor latere jaren. Naast het leren van programmeertalen (cognitie) gaat programmeren ook over probleem oplossend vermogen, bronnen op waarde schatten, documentatie lezen en experimenteren met oplossingen en mogelijkheden. _Beinvloeden door: live demo's (problemen oplossen en fouten maken), verscheidenheid van bronnen, documentatie lezen._
-- **Characteristics of the learners:** Niveau verschil binnen een klas, verschil tussen voor ervaring (vooropleiding, programmeren op middelbare school). CMD zijn visuele (creative) studenten dus veel uitkomst van code laten zien, show don't tell. Verder verplicht vak, wel of geen aanleg tot techniek. _Beinvloeden door: in-take toetsjes, leerlevels, verscheidenheid in bronnen (video's, documentatie, abstracte boeken vs explainer artikelen)_
-- **Characteristics of the teacher:** Enthousiasme van docent, passie voor het vak. Of de docent het in begrijpelijk taal kan uitleggen, enthousiasme en passie heeft voor programmeren en of de docent bereikbaar is buiten de les heeft grote impact op het slagen van de student. Vooral curse of knowledge is een probleem. Oud studenten die ook CMD hebben kunnen zich goed verplaatsen in studenten. Veel docenten die al wat langer op CMD werken geven les in P. Positief en negatief punt? _Beinvloeden door: voorbeelden laten aandragen door docenten?, veel concepten in diagrammen uitschrijven in slides?_
+- **Characteristics of the learners:** Niveau verschil binnen een klas is groot, sommigen hebben ervaring vanwege een vooropleiding of hebben informatica gehad op de middelbare school. Anderen hebben nog nooit een regel code geschreven. CMD'ers zijn visuele (creative) studenten dus show don't tell. Studenten denken ook vaak dat je wel of geen 'aanleg' hebt voor techniek. _Beinvloeden door: in-take toetsjes, leerlevels, verscheidenheid in bronnen (video's, documentatie, abstracte boeken vs explainer artikelen)_
+- **Characteristics of the teacher:** Enthousiasme van docent en de passie voor het vak is doorslagavond voor een eerste aanraking met techniek. Of de docent het in begrijpelijk taal kan uitleggen, enthousiasme en passie heeft voor programmeren en of de docent bereikbaar is buiten de les heeft grote impact op het slagen van de student. Vooral curse of knowledge kan een probleem worden. Verder zijn veel van onze technische docenten oud studenten die ook CMD hebben gedaan en kunnen zich goed verplaatsen in de student. Tevens is er al een lang een grote groep docenten die al lang bij CMD werken en soms ook uitsluitend lesgeven in de propedeuse. _Beinvloeden door: voorbeelden laten aandragen door docenten?, veel concepten in diagrammen uitschrijven in slides?, nieuw team?, docenten uit latere jaren?_
 
 ## Leerdoelen
 
@@ -239,12 +239,17 @@ De uiteindelijke beoordelingen zijn dus vooral **criteriumgericht**. De student 
 - Leerfunctie: De formatieve toetsmomenten (intake, voortgang en self-assessment) hebben allen een leerfunctie, ze dienen tevens als feedback moment en de student kan op basis van die momenten het product aanpassen en de feedback verwerken.
 
 **Rubrics:**  
-Voor beide summatieve toetsen wil ik gebruik maken van een **rubric** om de onderdelen te beoordelen vanwege de volgende redenen:
+Voor beide summatieve toetsen wil ik gebruik maken van een **rubric** om de onderdelen te beoordelen.
 
-- Transparent voor studenten etc.
-- Vierpuntsschaal, waarbij eerst de voldoende is uitgewerkt. Prestatie beschreven in 1 zin. En dan van o/v/g/zg. Ik denk dat de matig niet zo heel zinnig is al kan dat wel een manier zijn om een 'net niet' aan te geven. Een matig heeft misschien meer een leer/ verbeterfunctie dan een harde onvoldoende. Onvoldoende kan meer een 'nog niet' worden.
+- Een Rubric is transparent voor studenten. Het geeft inzicht in de kloof tussen gewenst niveau en het huidige niveau van de student. Daarbij is het ook een tool voor reflectie. Aan het begin van het vak is het meteen duidelijk wat het gewenste eindniveau is. De criteria zijn zoveel mogelijk positief bewoord.
+- Uitgaand van een vierpuntsschaal (beoordelingsniveaus), waarbij eerst de voldoende is uitgewerkt. De best mogelijke prestatie is zo meteen zichtbaar.Daarbij 4/5 criteria (toetscriteria) waarbij de prestatie zoveel mogelijk is beschreven in 1 zin. Met als niveaus: o/v/g. Waarbij eigenlijk de 'matig' criteria is weggelaten omdat ik denk dat die als leerfunctie niet heel zinvol is.
 
 Alle het gemaakte werk (toetsvormen) worden digitaal ingeleverd in de upload-omgeving van Brightspace. De leeromgeving wordt gebruikt als omgeving voor feedback, analyse, beoordeling en archiveringstool.
+
+De leerdoelen, de toetsmatrijs en toetsvormen en toetsafname zijn beschreven. Het beoordelen, analyseren en evalueren van de toetsing moet uit de praktijk blijken.
+
+![Toetsingcyclus](../bijlage/screenshots/toetsing.png)
+_Momenten voor kalibratie van docenten_
 
 _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl_
 
@@ -262,7 +267,7 @@ Op basis van dit herontwerp heb ik de volgende studiegids handleiding geschreven
 
 Ook ben ik aan de slag gegaan met een opzet voor vernieuwede rubrics.
 
-→ [(Voorlopige) rubrics][rubrics]
+→ [(Opzet) rubric (product)][rubric]
 
 **Leeromgeving**
 
@@ -276,7 +281,7 @@ De inrichting van DLO wil ik per thema doen. Omdat de vakinhoud nog verder uitge
 
 Naast de leeromgeving is het idee ook om een zogeheten _playground_ te maken waar studenten code snippets en voorbeelden van code kunnen zien zodat ze die in hun eigen project kunnen gebruiken. Daar komen verder ook alle kennisclips met op te staan.
 
-→ [Opzet playground op GitHub][playground]
+→ [(Work in progress) playground][playground]
 
 ## Alignment
 
@@ -305,13 +310,22 @@ Dit herontwerp begon met een aantal verbeterpunten die tijdens het herontwerp zi
 - [BKE Module: Toestcyclus. (score.hva.nl)][bke]
 - [Kennisclip: Waarom een toetsmatrijs? (score.hva.nl)][wet]
 - [Kennisclip: Rubrics for Assessments? (score.hva.nl)][rfa]
-- [Paul van den Bos (2016). Toetsen om te leren. (geannoteerd)](#)
 - [Margo van Rotterdam. Kennisclip Constructive Alignment.](#)
 - [Cees van der Vleuten. Programmatisch toetsen. (score.hva.nl)](#)
 - [Veronica Bruijns. Ontwikkelingen op toetsgebied. (score.hva.nl)](#)
+- [Paul van den Bos (2016). Toetsen om te leren. (geannoteerd)](#)
+- [Dee Fink. (2013). Creating Significant Learning Experiences.](#)
+- [Tim Surma (2019). Wijze Lessen: 12 bouwstenen voor effectieve didactiek](#)
+- [Michiel Lucassen (2016). Rubrics in de klas: zo ga je er mee aan de slag!](https://www.vernieuwenderwijs.nl/rubrics-klas-zo-ga-er-mee-aan-slag/)
+- [Valentina Devid (2020). Feedback: de magic bullet voor leren?](https://www.vernieuwenderwijs.nl/feedback-de-magic-bullet-voor-leren/)
 - [Toolbox Formatief Evalueren](https://formatiefevalueren.kdg.be/overzicht/)
 
 ## Bijlagen
+
+- → [(Voorlopige) studiehandleiding][studiehandleiding]
+- → [(Opzet) rubric (product)][rubric]
+- → [(Work in progress) syllabus][syllabus]
+- → [(Work in progress) playground][playground]
 
 ## Feedback
 
@@ -326,8 +340,7 @@ Dit herontwerp begon met een aantal verbeterpunten die tijdens het herontwerp zi
 [bke]: https://score.hva.nl/bke/Paginas/default.aspx
 [rfa]: https://www.youtube.com/watch?v=8EwPlTQzSLM
 [wet]: https://www.youtube.com/watch?v=kp3rANE8z6s
-
-[studiehandleiding]:
-[playground]:
-[rubrics]:
-[syllabus]:
+[studiehandleiding]: https://docs.google.com/document/d/13gr2hQatWikVsXf4Aj-L92hc87A9pdLdpLRWTAFAai8/edit?usp=sharing
+[playground]: https://github.com/cmda-tech0
+[rubric]: https://docs.google.com/spreadsheets/d/1LwhmP1sfPmoJnMAz9VCub-9tFBeDtAwWbwjnBsuP1pE/edit?usp=sharing
+[syllabus]: https://github.com/cmda-tech0
