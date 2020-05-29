@@ -96,10 +96,10 @@ In grote lijnen zijn de overkoepelende doelen voor `tech-0`:'
 3. **Herkennen en beleven** van interactie op het web.
 4. **Inzicht krijgen in de mogelijkheden** van web technologie
 
-_Over een paar jaar, nadat dit vak is afgelopen wil ik dat studenten **techniek als ontwerptool kunnen inzetten.**_ Op basis van deze visie heb ik een hele lijst met uigangspunten voor dit vak geschreven en de in de taxonomy of significant learning geplaatst met het idee om deze vervolgens tot in meer detail uit te schrijven tot 5/6 concrete leerdoelen.
+_Over een paar jaar, nadat dit vak is afgelopen wil ik dat studenten **techniek als ontwerptool kunnen inzetten.**_ Op basis van deze visie heb ik een lijst met uigangspunten voor dit vak geschreven en de in de taxonomy of significant learning geplaatst met het idee om deze vervolgens tot in meer detail uit te schrijven tot 5/6 concrete leerdoelen.
 
 ![Learning goal](../bijlage/screenshots/significant-goals.png)
-_Taxonomy of Significant Learning Goals voor tech-0._
+_Een greep uit de Taxonomy of Significant Learning Goals voor tech-0._
 
 Op basis van deze uitgangspunten kom ik tot de volgende leerdoelen:
 
@@ -124,12 +124,12 @@ Op basis van de BokSA die binnen de tech-expertise groep is gemaakt kom ik tot d
 
 Verder sluit `tech-0` aan bij **Begrijpen en kaderen** (analyseren), **Conceptualiseren** (synthetiseren), **Verbeelden en maken** (concretiseren) en **Onderzoeken** (reflecteren) als CMD Competenties.
 
-Voor deze leerdoelen en subleerdoelen worden in de volgende sectie leeractiviteiten en vervolgens aansluitende toetsing gemaakt.
-
-Op affectief niveau willen we de studenten bij `tech-0` vooral onderstaande dingen aanleren en andere afleren.
+Op affectief niveau willen ik bij `tech-0` vooral onderstaande punten aanleren en afleren.
 
 ![Affectief niveau](../bijlage/screenshots/affectief.png)
 _Op affectief niveau, houding emotie en gewoontes afleren._
+
+Voor deze leerdoelen en subleerdoelen worden in de volgende sectie leeractiviteiten en vervolgens aansluitende toetsing gemaakt.
 
 ## Leeractiviteiten
 
@@ -138,25 +138,32 @@ _Op affectief niveau, houding emotie en gewoontes afleren._
 De werkgroepen zijn zoveel mogelijk opgezet om studenten **actief te laten leren**. Na een korte ondersteunende instructie gaan studenten actief met die stof aan de slag in de vorm van een opdracht. Verdere uitgangspunten voor activiteiten zijn:
 
 - Snel, fun en trots: **resultaatgericht**. Na een les hebben studenten meteen opdrachten gemaakt die ze met trots aan papa en mama kunnen laten zien. Het resultaat zou in eerste instantie misschien wel belangrijker moeten zijn dan de daadwerkelijk geschreven code.
-- Het leren moet het resultaat zijn van het **oplossen van een probleem.** Een technische uitdaging kunnen ontleden, de student moet stapsgewijs denken (pseudocode).
+- Het leren moet het resultaat zijn van het **oplossen van een probleem.** Een technische uitdaging kunnen ontleden, de student moet stapsgewijs leren denken (pseudocode).
 - **Herkennen en beleven** van interactie op het web. Inzicht krijgen in de mogelijkheden van web technologie en technische haalbaarheid van een ontwerp.
-- **Experimenteren en varieren** in de uitwerking van de opdrachten. Meerdere mogelijkheden hebben onderzocht en uitgewerkt en daarop reflecteren en keuzes.
+- **Experimenteren en varieren** in de uitwerking van de opdrachten. Meerdere mogelijkheden hebben onderzocht en uitgewerkt en daarop reflecteren.
 
-Onze studenten zijn visuele en creatieve studenten. **Show don't tell.** Studenten vinden live demo's en voorbeelden fijn. behoefte aan ‘live-demo’s. Niet in spraak of met tekst voorbeelden geven maar laat het ‘gewoon zien’, ook het stap voor stap schrijven van stukken code.
+Onze studenten zijn visuele en creatieve studenten. **Show don't tell.** Studenten vinden live demo's en voorbeelden fijn. Niet in spraak of met tekst voorbeelden geven maar het ‘gewoon laten zien’.
 
 ![Opzet werkweek](../bijlage/screenshots/active-learning-diagram.png)
 _Actief leren diagram met mogelijke interventies._
 
 Hierna ben ik aan de slag gegaan met een weekopzet en een lesopzet ook om proberen de structuur en de flow van de studenten te visualiseren. Binnen een les probeer ik zoveel mogelijk de _bouwstenen van effectieve didactiek_ te verwerken.
 
-Op basis van de vakkenvuller (en de beschibare uren voor een vak van 3ECTS) mag geloven zijn de uren voor dit vak onder te verdelen in:
+Op basis van onze interne vakkenvuller zijn de uren voor dit vak onder te verdelen in:
 
-- Lesmomenten: Twee lesmomenten per week (2x2 lesuren), niet meer dan 3 uur aaneengesloten.
+```
+Totaal uren: 3 (ects) * 28 uur = 84 uur
+Uren per week: 84 uur / 8 weken (blok) = ~10 uur
+Contacturen: 4 uur werkgroep per week
+Zelfstudie: 10 uur - 4 uur = 6 uur
+```
+
+- Twee lesmomenten per week (2x2 lesuren), niet meer dan 3 uur aaneengesloten.
 - Minimaal 1 dag (liever twee dagen) tussen de werkgroepen.
 - Een vak van 3ECTS mag uitkomen op 60dbu.
 - 2 uur per klas per week inzet van een studentassistent in de werkgroep.
 
-In principe is er dus exclusief toetsing ruimte voor 3 uur (geen lesuren) per week wat grofweg uitkomt op 4 lesuren per week.
+Naast de werkgroepen is er grofweg per week voor `tech-0` ruimte voor 6 uur aan zelfstudie (out-of-class) per week. Ongeveer een dag in de week of 2 uur per dag buiten de werkgroepen om.
 
 ![Opzet werkweek](../bijlage/screenshots/werkgroep.png)
 _Opzet van de week inclusief werkgroepen._
@@ -166,12 +173,11 @@ De vakinhoud is gebasseerd op de BoKSA (Body of Knowledge and Skills) die is opg
 ![In and out of class](../bijlage/screenshots/class-activities.png)
 _In and out of class activities._
 
-Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens naar inde les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen. Er is daardoor een betere afstemming op de student en samenhang tussen niveau’s binnen een vak (complexiteit). Voor de student is er een mate van vrijheid in de keuze van de leertaken (zie student van tegenwoordig)
+Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens daar in de les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen. Er is daardoor een betere afstemming op de student en samenhang tussen niveau’s binnen een vak (complexiteit). Voor de student is er een mate van vrijheid in de keuze van de leertaken.
 
-- Week 1: Opening, leuke opdracht introductie web technologie. Voorbeelden uit praktijk laten zien. (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt. (criteria and standards). In deze week ook de in-take toets om het niveau van de student te bepalen (leerlevel /pistes).
-- Week 2/5: Formatieve toetsing, tussenopdrachten en voortgang elke week tussentijds inleveren in leeromgeving en als docent FIDelity feedback geven. Monitoren van voortgang en directe feedback terugkoppelen zodat studenten in een flow kunnen komen.
-- Week 6/7: Self-assesments (peer review) zichzelf en elkaar beoordelen en reflecteren op eigen werk en progressie gedurende het vak. Het leren beoordelen van eigen werk is een doel binnen het hoger onderwijs.
-- Week 8: Eindbeoordelingen en summatief beoordelingsmoment.
+- **Begin van het vak**: Speelse opening, leuke opdracht met introductie web technologie, voorbeelden uit praktijk laten zien (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt (criteria and standards). In het begin ook de in-take toets om het niveau van de student te bepalen (leerlevel /pistes).
+- **Tussentijds**: Formatieve toetsing, tussenopdrachten en voortgang en elke week tussentijds inleveren in leeromgeving. Als docent FIDelity feedback geven en monitoren van voortgang van de student.
+- **Eind van het vak**: Self-assesments (peer review) zichzelf en elkaar beoordelen en reflecteren op eigen werk en progressie gedurende het vak. Het leren beoordelen van eigen werk is een doel binnen het hoger onderwijs. In de laatste week eindbeoordelingen en summatief beoordelingsmoment.
 
 ## Toetsing
 
@@ -181,30 +187,30 @@ Als uitgangspunt wil ik binnen het vak meer op **vaardigheden toetsen dan op ken
 
 Voor _summatieve toetsen_ wil ik twee toetsvormen gebruiken:
 
-1. Studenten coderen een _website met micro-interacties_ als **product (praktijkopdracht)** en die met een _mondelings toets_ aan de hand van een _Rubric_ beoordelen met een _becijfering_ aan het eind van het vak. Mijn idee is wel om de studenten veel autonomie te geven over de invulling van de opdracht. Ik wil dat studenten de kans krijgen om te ontdekken, onderzoeken en leren om problemen aan te pakken en daarmee op hun eigen manier aan de leerdoelen kunnen voldoen.
-2. Studenten houden gedurende het vak een _logboek (productbiografie)_ bij over de theorie van _web & wereld_ en leveren deze aan het eind van het vak in. Dit logboek is denk ik een combinatie van een **kennistoets en reflectieopdracht**. Deze wordt beoordeeld met _o/m/v/g/_.
+1. Studenten coderen een mobile first _website met micro-interacties_ als **product (praktijkopdracht)** die met een _mondelings toets_ aan de hand van een _rubric_ beoordeelt wordt met een _becijfering_ aan het eind van het vak. Mijn idee is wel om de studenten veel autonomie te geven over de invulling van de eindopdracht. Ik wil dat studenten de kans krijgen om te ontdekken en te onderzoeken waar ze enthousiast van worden en daarbij leren om een eigen ontwerpproblemen aan te pakken.
+2. Studenten houden gedurende het vak een _logboek (productbiografie)_ bij over de theorie van _web & wereld_ en hun experiment bij het product (vrije vorm).Deze leveren deze aan het eind van het vak in. Dit logboek is denk ik een combinatie van een **kennistoets en reflectieopdracht**. Deze wordt beoordeeld met _o/v/g/_.
 
-Omdat de focus ligt op vaardigheden en niet op kennis wil ik de weging van het product 70% maken en het logboek voor 30% laten meetellen. De onderdelen zijn niet compenseerbaar omdat beide belangrijk zijn om aan alle leerdoelen te voldoen.
+Omdat de focus ligt op vaardigheden en niet op kennis wil ik de weging van het product 60% maken en het logboek voor 40% laten meetellen. De onderdelen zijn niet compenseerbaar omdat beide belangrijk zijn om aan alle leerdoelen te voldoen.
 
-- Product: 70% weging
-- Logboek: 30% weging
+- Product: 60% weging
+- Logboek: 40% weging
 - Compenseerbaar: Nee (beide minimaal een voldoende)
 - Het eindcijfer van de onderwijseenheid is het gemiddelde van deze voldoendes.
 
-Daarnaast wil ik twee toetsvormen gebruiken voor formatieve toetsing gedurende het vak.
+Daarnaast wil ik drie 'grote' toetsvormen gebruiken voor formatieve toetsing gedurende het vak:
 
 1. Een **intaketoets (feedback)** aan het begin van het vak om het beginniveau van de student te bepalen en de student aan de hand daarvan in te delen in een leerniveau.
-2. Op de helft van het week een formatief **voortangstoets (feedup)** om studenten te pushen om tussentijds al een grote inspanning te leveren voor het product aan het eind.
+2. Op de helft van het vak een formatief **voortgangstoets (feedup)** om studenten te pushen om tussentijds al een grote inspanning te leveren voor het product aan het eind en het bijhouden van het logboek.
 3. Gedurende het eind van het vak een **peer assessment (feedforward)** inzetten voor het product waarbij studenten zichzelf en eventueel elkaar beoordelen aan de hand van het beoordelingsformulier. Het eindcijfer mag wat mij betreft nooit tot een verassing komen.
 
-Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_. De valkuil van het niet becijferen is dat je veel aan het nakijken bent en dan aan het eind nog eens als summatieve toets. Misschien moeten de formatieve toetsen toch enige weging hebben in het eindcijfer van het vak.
+Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_. De valkuil van het niet becijferen is dat dit veel inzet van docenten vraagt (nakijktijd) en dan aan het eind ook nog eens summatief moeten toetsen. Misschien moeten de formatieve toetsen toch enige weging hebben in het eindcijfer van het vak.
 
 De toetsing voor het vak zou er in een schematische weergave zo uitzien:
 
 ![In and out of class](../bijlage/screenshots/schema-toetsing.png)
 _Schematische weergave formatieve en summatieve toetsmomenten (toetsprogramma)._
 
-Ik merk dat studenten over het algemeen kijken naar wat ze nog moeten doen en denken ‘wat veel werk’ maar weinig reflecteren op hun eigen voortgang en deze zichbaar maken (visible learning). Door de voortgangstoets hoop ik dat af te vangen. Studenten krijgen inzicht in hun eigen voortgang zodat ze de regie nemen over het eigen leren.
+Ik merk dat studenten over het algemeen kijken naar wat ze nog moeten doen en denken ‘wat veel werk’ maar weinig reflecteren op hun eigen voortgang en deze zichbaar maken (visible learning). Door de voortgangstoets hoop ik dat af te vangen. Studenten krijgen inzicht in hun eigen voortgang zodat ze de regie nemen over het eigen leren en bijsturen naar het eindniveau toe.
 
 Naast deze grote toetsmomenten probeer ik ook in ieder geval elke week een kleine opdracht te introduceren die ook formatief is. Op basis van de toolbox formatieve evaluatie heb ik geprobeerd voor elke week een werkvorm in te zetten die passend is bij de vakinhoud. Deze wil ik vooral toepassen bij de web & wereld momenten in de les.
 
@@ -217,36 +223,34 @@ In het begin zijn de werkvormen vooral bedoeld om kennis te peilen en het leren 
 - Op een systematische manier feedback geven (directe feedback)
 - Cultuur van vrijblijvendheid doorbreken (uitstelgedrag)
 
-Ik probeer hier dus ook verschillende toetsvormen te combineren, niet 1 methode kan alles doen maar samen worden ze krachtig.
+Ik probeer hier dus ook verschillende toetsvormen te combineren, niet 1 methode kan alles doen maar samen worden ze krachtig. De formatieve momenten gaan over de tussenstappen, het leren activeren en leren van dat toetsmoment. In de laatste weken zijn dus de summatieve toetsen, dan eindigt het leren.
 
-Het logboek gaat hier dus vooral over onthouden en begrijpen binnen de taxonomie van Bloom en het product gaat meer naar deep level learning waarbij studenten de stof moeten toepassen in hun eigen website (product), analyseren en evalueren over hun gemaakte werk en progressie. Product en logboek (assessment) is meer affectief en het logboek is meer cognitief.
-
-De formatieve momenten gaan over de tussenstappen, het leren activeren en leren van dat toetsmoment. In de laatste weken zijn dus de summatieve toetsen, dan eindigt het leren.
+Het logboek gaat vooral over _onthouden en begrijpen binnen_ de taxonomie van Bloom en het product gaat naar _deep level learning_ waarbij studenten de stof moeten _toepassen_ in hun eigen website (product), en hun gemaakte werk en progressie _analyseren_ en _evalueren_.
 
 De uiteindelijke beoordelingen zijn dus vooral **criteriumgericht**. De student toont met de toets aan de hand van een rubric aan in welke mate deze criteria (leerdoelen) zijn behaald. Aan de hand van de intaketoets en de self-assessment aan het einde van de toets zie ik ook nog een kans om ipsatief te toetsen maar wat de precieze invullen zou zijn vind ik moeilijk uit te werken. Wat ik verder nog lastig vind is (waarschijnlijk werkvormen) vinden waar studenten actief met de feedback aan de slag gaan. Studenten moeten feedback om kunnen zetten in acties en kunnen aangeven waar ze feedback op willen ontvangen. De ontvanger (student) moet actief wat met de feedback doen.
 
 **Eindopdracht:**
 
-- Ik vertel de studenten afraaders en aanraders van wat goede eindopdrachten zijn en veel voorkomende fouten van mensen die het mondeling niet halen.
-- Ik laat een aantal praktijkvoorbeelden zien maar showcase ook het werk van voorgaande jaren
-- Autonomie in de eindopracht
+- Tijdens de werkgroepen voorbeelden van einopdrachten laten zien (afraaders en aanraders) zodat ze weten wat tot een voldoende leidt.
+- Ook een focus op praktijkvoorbeelden zien een een showcase van werk van voorgaande jaren.
 
 **Kwaliteitscriteria:**
 
-- Validiteit: Ik heb er geen twijfel over dat alle docenten (examinator) de producten op vakinhoudelijk niveau kunnne beoordelen. Er zijn heldere en duidelijke beoordelingschaling, voor docenten voeg ik cesuur en norm bepaling toe in de vorm van: voldoende of onvoldoende. Tijdens het vak moet er de mogelijkheid zijn om onderling te callibreren.
-- Betrouwbaarheid: Beide summatieve toetsvormen hebben een beoordelingsinstrument (rubric) die de beoordelingscriteria bevatten. In een rubric is het over het algemeen heel helder wat de score is voor een voldoende en daarmee ook de cesuur bepaling voor docenten. De rubric geeft ook ruimte voor feedback (eventuele ophoging van het cijfer).
-- Transparantie: De leerdoelen zijn omgezet naar beoordelingscriteria die duidelijk maakt wanneer de opdracht voldoende of onvoldoende is. Al deze rubrics worden in de les besproken, staan op de leeromgeving. Naast vakinhoudelijke criteria staan er ook formele eisen (vorm) op (AVV's).
-- Leerfunctie: De formatieve toetsmomenten (intake, voortgang en self-assessment) hebben allen een leerfunctie, ze dienen tevens als feedback moment en de student kan op basis van die momenten het product aanpassen en de feedback verwerken.
+- **Validiteit:** Ik heb er geen twijfel over dat alle docenten (examinatoren) de producten op vakinhoudelijk niveau kunnen beoordelen. Door de rubric zijn er vrij duidelijke beoordelingschaling, voor docenten kunnen er nog cesuur en norm bepaling worden toegevoegd buiten de matrijs om. Tijdens het vak zijn er mogelijkheden om onderling te callibreren.
+- **Betrouwbaarheid:** Beide summatieve toetsvormen hebben een beoordelingsinstrument (rubric) die de beoordelingscriteria bevatten. In een rubric is het over het algemeen heel helder wat de score is voor een voldoende en daarmee ook de cesuur bepaling voor docenten. De rubric geeft ook ruimte voor feedback (eventuele ophoging van het cijfer). Naast vakinhoudelijke criteria staan er ook formele eisen (vorm) op als AVV's.
+- **Transparantie:** De leerdoelen zijn omgezet naar beoordelingscriteria die duidelijk maakt wanneer de opdracht voldoende of onvoldoende is. Al deze rubrics worden in de les besproken voor studenten en komen op de leeromgeving te staan.
+- **Leerfunctie:** De formatieve toetsmomenten (intake, voortgang en self-assessment) hebben allen een leerfunctie, ze dienen tevens als feedback moment en de student kan op basis van die momenten het product aanpassen en actief de feedback verwerken.
 
 **Rubrics:**  
 Voor beide summatieve toetsen wil ik gebruik maken van een **rubric** om de onderdelen te beoordelen.
 
-- Een Rubric is transparent voor studenten. Het geeft inzicht in de kloof tussen gewenst niveau en het huidige niveau van de student. Daarbij is het ook een tool voor reflectie. Aan het begin van het vak is het meteen duidelijk wat het gewenste eindniveau is. De criteria zijn zoveel mogelijk positief bewoord.
-- Uitgaand van een vierpuntsschaal (beoordelingsniveaus), waarbij eerst de voldoende is uitgewerkt. De best mogelijke prestatie is zo meteen zichtbaar.Daarbij 4/5 criteria (toetscriteria) waarbij de prestatie zoveel mogelijk is beschreven in 1 zin. Met als niveaus: o/v/g. Waarbij eigenlijk de 'matig' criteria is weggelaten omdat ik denk dat die als leerfunctie niet heel zinvol is.
+- Een Rubric is transparent voor studenten. Het geeft inzicht in de kloof tussen _gewenst niveau en het huidige niveau_ van de student. Daarbij is het ook een tool voor reflectie. Aan het begin van het vak is het meteen duidelijk wat het gewenste eindniveau is. De criteria zijn zoveel mogelijk positief bewoord.
+- Uitgaand van een vierpuntsschaal (beoordelingsniveaus), waarbij eerst de voldoende is uitgewerkt. De best mogelijke prestatie is zo meteen zichtbaar. Daarbij 4/5 criteria (toetscriteria) waarbij de prestatie zoveel mogelijk is beschreven in 1 zin. Met als niveaus: o/v/g. Waarbij eigenlijk de 'matig' criteria is weggelaten omdat ik denk dat die als leerfunctie niet heel zinvol is.
 
-Alle het gemaakte werk (toetsvormen) worden digitaal ingeleverd in de upload-omgeving van Brightspace. De leeromgeving wordt gebruikt als omgeving voor feedback, analyse, beoordeling en archiveringstool.
+![Opzet rubric product](../bijlage/screenshots/opzet-rubric.png)
+_Een hele ruwe opzet voor de rubric van het product_
 
-De leerdoelen, de toetsmatrijs en toetsvormen en toetsafname zijn beschreven. Het beoordelen, analyseren en evalueren van de toetsing moet uit de praktijk blijken.
+Al het gemaakte werk (toetsvormen) wordt digitaal ingeleverd in de upload-omgeving van Brightspace. De leeromgeving wordt gebruikt als omgeving voor feedback, analyse, beoordeling en archivering. De leerdoelen, de toetsmatrijs en toetsvormen en toetsafname zijn beschreven. Het beoordelen, analyseren en evalueren van de toetsing (uit de cyclus) moet uit de praktijk blijken.
 
 ![Toetsingcyclus](../bijlage/screenshots/toetsing.png)
 _Momenten voor kalibratie van docenten_
@@ -259,27 +263,29 @@ _De opzet van de toetsen volgt de stappen van **de toetscyclus** op score.hva.nl
 
 **Studiehandleiding**
 
-Op basis van dit herontwerp heb ik de volgende studiegids handleiding geschreven.
+Op basis van dit herontwerp heb ik de volgende studiegidstekst geschreven.
 
 → [(Voorlopige) studiehandleiding][studiehandleiding]
 
 **Rubrics**
 
-Ook ben ik aan de slag gegaan met een opzet voor vernieuwede rubrics.
+Ook ben ik aan de slag gegaan met een opzet voor de vernieuwde rubrics.
 
 → [(Opzet) rubric (product)][rubric]
 
 **Leeromgeving**
 
-De inrichting van DLO wil ik per thema doen. Omdat de vakinhoud nog verder uitgewerkt moet worden is er weinig te zeggen over de concrete inricthing. Er zijn wel een aantal features in Brightspace die erg handig kunnen zijn:
+De inrichting van DLO wil ik per thema doen. Omdat de vakinhoud nog verder uitgewerkt moet worden is er weinig te zeggen over de concrete inrichting. Er zijn wel een aantal features in Brightspace die erg handig kunnen zijn:
 
 - Het aanmaken van de groepen (pistes) zorgt ervoor dat studenten alleen resources zien voor hun eigen piste.
+- De intake toetsen en peer assessment via Brightspace afnemen om studenten automatisch in een leerlevel in te delen.
+- Het werken met badges om de formatieve momenten af te ronden en als voldaan of niet voldaan te markeren.
 
 → [(Work in progress) syllabus][syllabus]
 
 **Playground**
 
-Naast de leeromgeving is het idee ook om een zogeheten _playground_ te maken waar studenten code snippets en voorbeelden van code kunnen zien zodat ze die in hun eigen project kunnen gebruiken. Daar komen verder ook alle kennisclips met op te staan.
+Naast de leeromgeving is het idee ook om een zogeheten _playground_ te maken waar studenten code snippets en voorbeelden van code kunnen zien zodat ze die in hun eigen project kunnen gebruiken. Daar komen verder ook alle kennisclips en verdiepende bronnen op te staan.
 
 → [(Work in progress) playground][playground]
 
@@ -287,19 +293,19 @@ Naast de leeromgeving is het idee ook om een zogeheten _playground_ te maken waa
 
 > Check of alle componenten (leerdoelen, toets en leeractiviteiten) verbonden en geïntegreerd zijn
 
-Een goede manier om een check uit te voeren is door het invullen van _worksheet for designing a course_ uit dee fink. Dat geeft ons de volgende schematische weergave:
+Een goede manier om een check uit te voeren is door het invullen van _worksheet for designing a course_ van Dee fink. Dat geeft ons de volgende schematische weergave:
 
 ![Worksheet design](../bijlage/screenshots/worksheet-design.png)
 _Worksheet for designing a course._
 
-Elk leerdoel komt aanbod in ieder geval een van de twee summatieve toetsen. Er is een verscheidenheid aan leerbronnen, zowel voorbeelden als verdiepende artikelen en video's.
+Elk leerdoel komt aanbod in ieder geval een van de twee summatieve toetsen. Er is een verscheidenheid aan leerbronnen; voorbeelden uit de praktijkd, opdrachten, actieve werkvormen en verdiepende artikelen en video's.
 
 ![Verbeterpunten](../bijlage/screenshots/alignment.png)
-_Verbeteringpunten course design op basis van analyse_
+_Verbeteringpunten course design op basis van analyse en herontwerp_
 
 ### Conclusie
 
-Dit herontwerp begon met een aantal verbeterpunten die tijdens het herontwerp zijn verbeterd. Door het introduceren van web & wereld is er een goede mix van know-why en know-what en verlegt de focus iets weg van puur alleen cognitieve skills, door een aantal formatieve toetsen te introduceren zijn er meer tussentijdse opleveringen, de lesopdrachten, en praktijkvoorbeelden spoort studenten aan te spelen met techniek en de playground geeft ruimte voor leerniveau's en meer blended learning.
+Dit herontwerp begon met een aantal verbeterpunten die tijdens die uit de analayse naar voren kwamen. Met het herontwerp heb ik deze verbeterd. Door het introduceren van web & wereld is er een goede mix van know-why en know-what en verlegt de focus van cognitieve skills naar meer affectief. Door een aantal formatieve toetsen te introduceren zijn er meer tussentijdse opleveringen, de lesopdrachten en praktijkvoorbeelden sporen studenten aan om op een speelse manier met techniek aan de slag te gaan. De playground geeft mogelijkheid tot meer blended learning en door het goed inrichten van de leeromgeving geeft het ruimte voor leerniveau's.
 
 👋 _Dank voor het lezen._
 
