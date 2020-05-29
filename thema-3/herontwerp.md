@@ -10,7 +10,7 @@ title: Herontwerp
 - Cursus: Basiskwalificatie Didactische Bekwaamheid (BDB)
 - Docent: Danny de Vries (Docent Webtechnologie)
 - Jaar: Feb - Jun 2020
-- Universeit: Hogeschool van Amsterdam (HvA Academie)
+- Universiteit: Hogeschool van Amsterdam (HvA Academie)
 - Opleiding: Communication and Multimedia Design (voltijd CROHO: 34092)
 - Faculteit: Digital Media and Creative Industries
 - Leergroep: De Zwarte Piste
@@ -31,7 +31,7 @@ title: Herontwerp
 
 ## Introductie
 
-Bij CMD amsterdam zijn we het fundament aan het herontwerpen voor studiejaar 20/21, een grote curriculumvernieuwing voor de propedeuse. Onze curriculumcommissie overziet dit herontwerp en neemt vooral de organisatorische taak op zich. **Aan mij is door de curriculumcommissie gevraagd om vorm te geven aan het vak `tech-0`, het allereerste technische vak binnen onze opleiding**. Het vak `tech-0` gaat enigszins een vervangingen worden van de huidige technische vakken die we nu in de propedeuse hebben. We behouden wel wat activiteiten en vakinhoud die relevant zijn maar in principe mag het vak 'op de schop' (zie analyse voor meer achtergrondinfo).
+Bij CMD Amsterdam zijn we het fundament aan het herontwerpen voor studiejaar 20/21, een grote curriculumvernieuwing voor de propedeuse. Onze curriculumcommissie overziet dit herontwerp en neemt vooral de organisatorische taak op zich. **Aan mij is door de curriculumcommissie gevraagd om vorm te geven aan het vak `tech-0`, het allereerste technische vak binnen onze opleiding**. Het vak `tech-0` gaat enigszins een vervangingen worden van de huidige technische vakken die we nu in de propedeuse hebben. We behouden wel wat activiteiten en vakinhoud die relevant zijn maar in principe mag het vak 'op de schop' (zie analyse voor meer achtergrondinfo).
 
 `tech-0` gaat een _verplicht studieonderdeel_ zijn voor elke propedeuse student (3 ECTS). Er zullen 4 clusters zijn met elk ongeveer ~5 klassen, dit vak heeft dus in totaal 20 klassen en voor elk cluster een aparte module coördinatoren (4 in totaal). Het nieuwe vak wordt in blok 1 van het studiejaar aangeboden en is het 'introductie vak' voor techniek van onze opleiding, de grande entree. De andere technische vakken (in de verdere verloop van het studiejaar) sluiten op dit vak aan en geven meer verdieping.
 
