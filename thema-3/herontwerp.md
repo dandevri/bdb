@@ -350,7 +350,21 @@ _Werkplekbegeleider Sonja Rouwhorst (Teammanger 2e jaar)_
 - Waarom mogen de eindopleveringen elkaar niet compenseren? Omdat een propedeuse student dit allemaal echt 'moet kunnen'?
 - Hoe nuttig is nog een matig bij beoordeling? Het kan nog wel een niveau worden maar dan een andere bewoording.
 
-#### Leergroep
+_Tech expertise groep, tech docenten in propedeuse (presentatie collega's)_
+
+- Verlicht de druk op docenten, verzin leuke opdrachten in de weekopzet zodat dit verwerkt zit in het vak.
+- Er is ook een groep die het gewoon niet leuk vind, dan ga je meer naar 'waarde van techniek' in plaats van enthousiasme.
+- Niet alleen verschil in 'niveau' maar ook in motivatie (voor de leerniveau's en pistes). Pistes, gaan niet om 'indelen' maar om de niveau’s van bronnen.
+- Het 'makkelijk' maken van een vak hoeft niet altijd dan is het op een gegeven moment niet meer uitdagend. Een vak moet wel ‘Haalbaar’ zijn.
+- Tech-0 is ook eigenlijk proeven van alle leerdoelen waar we in de andere vakken tech-1/tech-2 mee verder gaan.
+- Weekopzet in het nieuwe fundament 1 week minder dus waarschijnlijk maar 7 weken.
+- Het product kan ook volledig opgaan in de beoordeling van het overkoepelende project. Dus tijdens het vak meer formatief, in dienst van het project en daar dan summatief toetsen.
+- Of zelfs toetsing in een project naar keuze dat de student mag kiezen. Of opdracht voor vak of project opdracht. Herkansing een project later bijvoorbeeld bij tech-1/tech-2.
+- Bij de eindbeoordeling een set van reflectievragen opnemen (of in het logboek)? eflectievragen inleveren bij het eindproduct. Krachtig want die kunnen ze voorbereiden. Of zelfs al meegeven in intake toets.
+- Die reflectie kan je opbouwen met single double en triple loop en verwerkenin de formatieve toetsing.
+- Het logboek moet een focus hebben. Of je toets daar de reflectie van het product of de kennis van het vak, beide heel verschillend.
+- Single point rubrics zijn misschien in de propedeuse nog wel 'eng'. Aan de andere kant, je kan ze ook die manier van beoordeling 'leren' want dit is het eerste vak. Regressie naar het ‘midden’ voorkomen (ozone score). Voorkom afvink gedrag. Iets meer scorebord studeren maar of dat erg is bij dit vak? Daarnaast is de toetsing daardoor heel transparant.
+- Ik zie trouwens ook wel iets in alle leerdoelen voor de techies hetzelfde en dan daaronder subdoelen en boksa die anders is per vak.
 
 [bke]: https://score.hva.nl/bke/Paginas/default.aspx
 [rfa]: https://www.youtube.com/watch?v=8EwPlTQzSLM
