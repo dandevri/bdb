@@ -341,6 +341,15 @@ Dit herontwerp begon met een aantal verbeterpunten die tijdens die uit de analys
 
 #### Team (inclusief je werkplekbegeleider)
 
+_Werkplekbegeleider Sonja Rouwhorst (Teammanger 2e jaar)_
+
+- Behoefte aan adjectieven bij leerdoelen, mist een niveauduiding.
+- Playground moet meer inspiratie zijn dan code copy paste die we weer moeten afleren. Er is discussie binnen docenten, dit was ooit geintroduceerd maar toen weer weggehaald.
+- Let op simpele 'problemen' bij eerste jaars. Tijd inruimen om dingen als hoe werkt een computer, mapjes slepen etc. Dit betreft wellicht 20% van de studenten, voor de andere 80% is dit niet heel nuttig en kost het veel tijd van een les.
+- Studenten leren problemen oplossen, code werkt niet, maak ruimte om klasikkaal huiswerk te bespreken. Niet zozeer herhaling van de stof maar eerst het oplossen problemen van het huiswerk.
+- Waarom mogen de eindopleveringen elkaar niet compenseren? Omdat een propedeuse student dit allemaal echt 'moet kunnen'?
+- Hoe nuttig is nog een matig bij beoordeling? Het kan nog wel een niveau worden maar dan een andere bewoording.
+
 #### Leergroep
 
 [bke]: https://score.hva.nl/bke/Paginas/default.aspx

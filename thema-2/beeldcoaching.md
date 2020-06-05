@@ -32,6 +32,16 @@ _Dit was een kick-off college voor het vak back-end, blok 3 toen nog fysiek. Ik 
 - Te open vraag een het eind, stel geen doorvraag, wil meteen door
 - Vind het tempo zelf meevallen, helder maar daardoor een beetje autoritair.
 
+## Feedback beeldcoaching
+
+- Ik heb je filmpjes bekeken, je straalt voor de klas echt rust uit, zowel fysiek als online. Heel knap! Je houding en stem zijn rustig, juist een natuurlijke houding, zie dat alle/ de meesten goed kijken naar het scherm.
+- Je stelt wel de vraag: Waarom gaan we dit doen? Maar je beantwoord hem zelf direct. Laat de studenten dit misschien doen? Je gaat inderdaad vrij snel door met de eindvraag, je zou iemand het woord kunnen geven, of even in kleine groepjes uit elkaar om iets te bedenken.
+- Autoriteit: ja wel. Goed leidend maar een beetje intimiderend.
+- Nodigt niet echt uit tot vragen en input van de klas. Misschien een simpel vraag: "weet iemand wat een bootcamp is?" Dan: "intensief coding workshop, dat betekent dat jullie heel hard gaan programmeren!" (meer inclusief, minder serieus)
+- Wel wat empathie. Misschien kan je "Ik zie bang gezichten" meer naar een vraag verzinnen: "Zijn jullie bang?" Of gewoon zonder stelling: "Ik heb nog nooit zo'n stille klas gehad, voel me onzeker. Wat denken jullie eigenlijk?"
+- Meer open vragen stellen. Uit de tent kan lokken. Gesloten vragen omzetten naar open vragen.
+- Wellicht nog een tikkie meer naar de klas kijken ipv scherm.
+
 ### Kick-off college back-end
 
 > **Kijkvraag:** Dwaal ik hier teveel af? Zorgt die game grap voor meer sfeer of leidt het juist af voor de studenten, ook die er niets mee hebben?
@@ -44,6 +54,13 @@ _Dit was hetzelfde kick-off college van back-end maar digitaal. Deze klas was we
 
 - Zelf afgeleid door de chat
 - Inside jokes, niet iedereen gamed
+
+## Feedback beeldcoaching
+
+- Ik vind het niet erg om zo'n een grapje te maken, het duurt niet lang. Je bent een mensch, dat vinden studenten zeker leuk!
+- Losser inderdaad, ook meer in de richting "energie". Ik vindt het zelf meer engaging dan de filmpjes van de fysieke lessen.
+- Ik denk dat je hier juist hele goede aansluiting maakt met de studenten
+- Afleiding in de chat is ook belangrijk en dat kun je ook benoemen. Speelse manier van groep naar instructie.
 
 ## Overige fragmenten
 
