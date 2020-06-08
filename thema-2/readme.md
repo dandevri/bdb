@@ -33,3 +33,9 @@ _Deze bijeenkomst ging over hoe de manier van spreken heeft op hoe jij, als doce
 _Wekelijks begeleid in je leergroep aan de slag met het terugkijken en bespreken van (online) lesopnames_
 
 → [Beeldcoaching](../thema-2/beeldcoaching)
+
+### Assessment
+
+_In het peer-assessment voor thema 2 laat je zien door middel van 3 voorbeelden hoe jij je docentrol hebt ingevuld en hoe jij je onderwijs hebt geactiveerd, op welke manier je dat hebt gedaan en wat het resultaat is._
+
+→ [Peer assessment](../thema-2/assessment)
