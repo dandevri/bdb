@@ -83,7 +83,7 @@ Het is lastig om non-techies aan het prototypen te krijgen met techniek, maar mi
 - **Expectations of External groups:** Op CMD Amsterdam leiden we multidisciplinaire ontwerpers op (T-Shaped designers), oftewel studenten komen in aanraking met verschillende rollen. We verwachten dus dat ondanks een student zich wellicht niet wilt profileren in techniek, elke student een basis heeft om techniek in te zetten of in ieder geval kan communiceren met techneuten. Ook vanuit het bedrijfsleven is er steeds meer vraag naar studenten die zowel vormgeving (visual) en techniek (development) kunnen combineren. _Beïnvloeden door: praktijkvoorbeelden laten zien, experimentele creative (coding) voorbeelden. Interactie op het web._
 - **Nature of the Subject:** Techniek is constant aan het veranderen, vooral de tooling om techniek heen maar de basis programmeertalen voor het web (HTML, CSS & JavaScript, het fundament) is al vele jaren hetzelfde. Deze fundamentele talen zijn ook het uitgangspunt van dit vak. Alle tooling hieromheen is voor latere jaren. Naast het leren van programmeertalen (cognitie) gaat programmeren ook over probleemoplossend vermogen, bronnen op waarde schatten, documentatie lezen en experimenteren met oplossingen en mogelijkheden. _Beïnvloeden door: live demo's (problemen oplossen en fouten maken), verscheidenheid van bronnen, documentatie lezen._
 - **Characteristics of the learners:** Niveauverschil binnen een klas is groot, sommigen hebben ervaring vanwege een vooropleiding of hebben informatica gehad op de middelbare school. Anderen hebben nog nooit een regel code geschreven. CMD'ers zijn visuele (creatieve) studenten dus show don't tell. Studenten denken ook vaak dat je wel of geen 'aanleg' hebt voor techniek. _Beïnvloeden door: in-take toetsjes, leerlevels, verscheidenheid in bronnen (video's, documentatie, abstracte boeken vs explainer artikelen)_
-- **Characteristics of the teacher:** Enthousiasme van docent en de passie voor het vak is doorslaggevend voor een eerste aanraking met techniek. Of de docent het in begrijpelijk taal kan uitleggen, enthousiasme en passie heeft voor programmeren en of de docent bereikbaar is buiten de les heeft grote impact op het slagen van de student. Vooral curse of knowledge kan een probleem worden. Verder zijn veel van onze technische docenten oud studenten die ook CMD hebben gedaan en kunnen zich goed verplaatsen in de student. Tevens is er al een lang een grote groep docenten die al lang bij CMD werken en soms ook uitsluitend lesgeven in de propedeuse. _Beïnvloeden door: voorbeelden laten aandragen door docenten?, veel concepten in diagrammen uitschrijven in slides?, nieuw team?, docenten uit latere jaren?_
+- **Characteristics of the teacher:** Enthousiasme van docent en de passie voor het vak is doorslaggevend voor een eerste aanraking met techniek. Of de docent het in begrijpelijk taal kan uitleggen, enthousiasme en passie heeft voor programmeren en of de docent bereikbaar is buiten de les heeft grote impact op het slagen van de student. Vooral curse of knowledge kan een probleem worden. Verder zijn veel van onze technische docenten oud studenten die ook CMD hebben gedaan en kunnen zich goed verplaatsen in de student. Tevens is er al een lang een grote groep docenten die al lang bij CMD werken en soms ook uitsluitend lesgeven in de propedeuse. _Beïnvloeden door: voorbeelden laten aandragen door docenten, veel concepten in diagrammen uitschrijven in slides, veel nieuwe docenten (nieuw team), docenten uit latere jaren naar de propedeuse halen_
 
 ## Leerdoelen
 
@@ -99,17 +99,17 @@ In grote lijnen zijn de overkoepelende doelen voor `tech-0`:'
 _Over een paar jaar, nadat dit vak is afgelopen wil ik dat studenten **techniek als ontwerptool kunnen inzetten.**_ Op basis van deze visie heb ik een lijst met uitgangspunten voor dit vak geschreven en de in de taxonomy of significant learning geplaatst met het idee om deze vervolgens tot in meer detail uit te schrijven tot 5/6 concrete leerdoelen.
 
 ![Learning goal](../bijlage/screenshots/significant-goals.png)
-_Een greep uit de Taxonomy of Significant Learning Goals voor tech-0._
+_Een greep uit de Taxonomy of Significant Learning Goals van Dee Fink voor tech-0 ([klik om te vergroten](../bijlage/screenshots/significant-goals.png))._
 
 Op basis van deze uitgangspunten kom ik tot de volgende leerdoelen:
 
-| Leerdoel                                                          | Taxonomie     |
-| ----------------------------------------------------------------- | ------------- |
-| Je hebt basiskennis over hoe een website en het internet werkt    | Remembering   |
-| Je begrijpt de rol van web technologie als ontwerper              | Understanding |
-| Je kan spelen en experimenteren met web technologie               | Applying      |
-| Je snapt de mogelijkheden en beperkingen van web technologie      | Evaluating    |
-| Je maakt een interactief prototype met behulp van web technologie | Creating      |
+| Leerdoel                                                             | Taxonomie (Bloom) |
+| -------------------------------------------------------------------- | ----------------- |
+| 1. Je hebt basiskennis over hoe een website en het internet werkt    | Remembering       |
+| 2. Je begrijpt de rol van web technologie als ontwerper              | Understanding     |
+| 3. Je kan spelen en experimenteren met web technologie               | Applying          |
+| 4. Je snapt de mogelijkheden en beperkingen van web technologie      | Evaluating        |
+| 5. Je maakt een interactief prototype met behulp van web technologie | Creating          |
 
 Op basis van de BokSA die binnen de tech-expertise groep is gemaakt kom ik tot de volgende subleerdoelen die iets dieper ingaan op de vakinhoud:
 
@@ -127,7 +127,9 @@ Verder sluit `tech-0` aan bij **Begrijpen en kaderen** (analyseren), **Conceptua
 Op affectief niveau willen ik bij `tech-0` vooral onderstaande punten aanleren en afleren.
 
 ![Affectief niveau](../bijlage/screenshots/affectief.png)
-_Op affectief niveau, houding emotie en gewoontes afleren._
+_Op affectief niveau, houding, emotie, waarden en gewoontes afleren._
+
+De affectieve houding (het aanleren) komt vooral terug in leerdoel 2 (het begrijpen van de rol van web technologie) en 3 (spelen en experimenteren met web technologie). Veel van het 'aanleren' zal ook gebeuren in web & wereld (zie volgende sectie over leeracrtiviteiten) waar studenten een bredere kijk krijgen met betrekking tot techniek. Het experiment wordt vervolgens getoetst in het product en het begrijpen van technologie in het logboek (zie toetsing).
 
 Voor deze leerdoelen en subleerdoelen worden in de volgende sectie leeractiviteiten en vervolgens aansluitende toetsing gemaakt.
 
@@ -166,31 +168,31 @@ Zelfstudie: 10 uur - 4 uur = 6 uur
 Naast de werkgroepen is er grofweg per week voor `tech-0` ruimte voor 6 uur aan zelfstudie (out-of-class) per week. Ongeveer een dag in de week of 2 uur per dag buiten de werkgroepen om.
 
 ![Opzet werkweek](../bijlage/screenshots/werkgroep.png)
-_Opzet van de week inclusief werkgroepen._
+_Opzet van de week inclusief werkgroepen [klik om te vergroten](../bijlage/screenshots/werkgroep.png)._
 
 De vakinhoud is gebaseerd op de BoKSA (Body of Knowledge and Skills) die is opgesteld door de tech-expertise groep. Studenten kunnen in een flow komen door thema’s per week, daarbij aansluitende opdrachten, directe feedback op die opdrachten en de formatieve toets momenten als mijlpalen. Door de formatieve momenten bouw je een soort 'check in' waarbij je het werk waar de studenten naartoe werk kunt bijsturen.
 
 ![In and out of class](../bijlage/screenshots/class-activities.png)
 _In and out of class activities._
 
-Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens daar in de les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende pistes de bronnen en video's in te delen. Er is daardoor een betere afstemming op de student en samenhang tussen niveaus binnen een vak (complexiteit). Voor de student is er een mate van vrijheid in de keuze van de leertaken.
+Alle blauwe vlakken (out-of-class) zijn resources (screencasts, video's en opdrachten) die studenten zelfstandig kunnen uitvoeren waarbij we vervolgens in een werkgroep de resultaten klassikaal kunnen bespreken. De meeste opdrachten wil ik asynchroon gaan aanbieden om vervolgens daar in de les instructie of feedback op te geven. De out-of-class activities zijn ook een goed moment om leerniveau's in te zetten, door in verschillende 'pistes' (zoals in analyse besproken: blauw voor beginner,rood voor gemiddeld & zwart voor gevorderd) de bronnen en video's in te delen op niveau. Er is daardoor een betere afstemming op de student en samenhang tussen niveaus binnen een vak (complexiteit). Voor de student is er een mate van vrijheid in de keuze van de leertaken.
 
-- **Begin van het vak**: Speelse opening, leuke opdracht met introductie web technologie, voorbeelden uit praktijk laten zien (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt (criteria and standards). In het begin ook de intake toets om het niveau van de student te bepalen (leerlevel /pistes).
-- **Tussentijds**: Formatieve toetsing, tussenopdrachten en voortgang en elke week tussentijds inleveren in leeromgeving. Als docent FIDelity feedback geven en monitoren van voortgang van de student.
+- **Begin van het vak**: Speelse opening, leuke opdracht met introductie web technologie, voorbeelden uit praktijk laten zien (forward-looking). Uitleg over het vak en de beoordeling. Duidelijk maken wat tot een voldoende lijdt (criteria and standards). In het begin ook de intake toets om het niveau van de student te bepalen (leerlevel, pistes en self-assessment).
+- **Tussentijds**: Formatieve toetsing, tussenopdrachten en voortgang en elke week tussentijds inleveren in leeromgeving. Als docent FIDelity feedback geven en monitoren van voortgang van de student (self-assessment).
 - **Eind van het vak**: Self-assessments (peer review) zichzelf en elkaar beoordelen en reflecteren op eigen werk en progressie gedurende het vak. Het leren beoordelen van eigen werk is een doel binnen het hoger onderwijs. In de laatste week eindbeoordelingen en summatief beoordelingsmoment.
 
 ## Toetsing
 
 > Toetsing en assessment die passen bij de leerdoelen aan de hand van de toetscyclus.
 
-Als uitgangspunt wil ik binnen het vak meer op **vaardigheden toetsen dan op kennis**. `tech-0` blijft in dat opzich wel een kennisvak omdat het in het fundament (propedeuse) van onze opleiding zit en dus vooral op onthouden, begrijpen en toepassen zitten binnen de taxonomie van Bloom. HBO studenten willen denk ik meer uit de praktijk leren, misschien minder uit de theorie. Dus vanuit toepassen vertrekken en dan theorie eraan koppelen of deze later bij de andere technische vakken terug laten komen.
+Als uitgangspunt wil ik binnen het vak meer op **vaardigheden toetsen dan op kennis**. `tech-0` blijft in dat opzich wel een kennisvak omdat het in het fundament (propedeuse) van onze opleiding zit en dus vooral op onthouden, begrijpen en toepassen zitten binnen de taxonomie van Bloom. HBO studenten willen denk ik meer uit de praktijk leren, misschien minder uit de theorie. Desondanks zijn alle leerdoelen van het vak verpreidt over de taxonomie van Bloom en hoop ik met het logboek en web & wereld ook de meer affectieve niveau's van Bloom te verwerken in m'n vak. Dus vanuit toepassen vertrekken en dan theorie eraan koppelen. Wat een optie zou kunnen zijn is om deze wellicht later bij de andere technische vakken terug te laten komen en ze daar 'zwaarder' toetsen.
 
 Voor _summatieve toetsen_ wil ik twee toetsvormen gebruiken:
 
 1. Studenten coderen een mobile first _website met micro-interacties_ als **product (praktijkopdracht)** die met een _mondelinge toets_ aan de hand van een _rubric_ beoordeelt wordt met een _becijfering_ aan het eind van het vak. Mijn idee is wel om de studenten veel autonomie te geven over de invulling van de eindopdracht. Ik wil dat studenten de kans krijgen om te ontdekken en te onderzoeken waar ze enthousiast van worden en daarbij leren om een eigen ontwerp problemen aan te pakken.
 2. Studenten houden gedurende het vak een _logboek (productbiografie)_ bij over de theorie van _web & wereld_ en hun experiment bij het product (vrije vorm).Deze leveren deze aan het eind van het vak in. Dit logboek is denk ik een combinatie van een **kennistoets en reflectieopdracht**. Deze wordt beoordeeld met _o/v/g/_.
 
-Omdat de focus ligt op vaardigheden en niet op kennis wil ik de weging van het product 60% maken en het logboek voor 40% laten meetellen. De onderdelen zijn niet compenseerbaar omdat beide belangrijk zijn om aan alle leerdoelen te voldoen.
+Omdat de focus ligt op vaardigheden en niet op kennis wil ik de weging van het product 60% maken en het logboek voor 40% laten meetellen. De onderdelen zijn niet compenseerbaar omdat beide belangrijk zijn om aan alle leerdoelen te voldoen. Deze weging klopt ook met de verhouding van de leerdoelen, waarbij er 3 gaan over vaardigheden (leerdoel 1, 3, 5) en de anderen over kennis (leerdoel 2, 4).
 
 - Product: 60% weging
 - Logboek: 40% weging
@@ -201,9 +203,11 @@ Daarnaast wil ik drie 'grote' toetsvormen gebruiken voor formatieve toetsing ged
 
 1. Een **intaketoets (feedback)** aan het begin van het vak om het beginniveau van de student te bepalen en de student aan de hand daarvan in te delen in een leerniveau.
 2. Op de helft van het vak een formatief **voortgangstoets (feedup)** om studenten te pushen om tussentijds al een grote inspanning te leveren voor het product aan het eind en het bijhouden van het logboek.
-3. Gedurende het eind van het vak een **peer assessment (feedforward)** inzetten voor het product waarbij studenten zichzelf en eventueel elkaar beoordelen aan de hand van het beoordelingsformulier. Het eindcijfer mag wat mij betreft nooit tot een verassing komen.
+3. Gedurende het eind van het vak een **peer assessment (feedforward)** inzetten voor het product waarbij studenten zichzelf en eventueel elkaar beoordelen aan de hand van het beoordelingsformulier.
 
-Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_. De valkuil van het niet becijferen is dat dit veel inzet van docenten vraagt (nakijktijd) en dan aan het eind ook nog eens summatief moeten toetsen. Misschien moeten de formatieve toetsen toch enige weging hebben in het eindcijfer van het vak.
+Het eindcijfer mag nooit tot een verassing komen en dat is wat al deze formatieve toetsmomenten doen, de summatieve toetsing is slechts een bevestiging daarvan.
+
+Deze momenten wil ik niet becijferen en dus ook niet laten meewegen in het cijfer. Wel wil ik hier verplichte onderdelen (aan voorwaarde voldaan) van maken die studenten moeten afronden met een _niet voldaan/voldaan_. De valkuil van het niet becijferen is dat dit veel inzet van docenten vraagt (nakijktijd) en dan aan het eind ook nog eens summatief moeten toetsen. Deze workload moet door middel van goede formatieve toetsing en de leeractiviteiten verschuiven naar de student. De student moet zelf feedback kunnen vragen, verwerken en geven. Docenten moeten ook leren indirecte correctoe toe te passen door meer coachenderwijs feedback te geven. De student moet uiteindelijke diegene zijn die de meeste tijd investeert.
 
 De toetsing voor het vak zou er in een schematische weergave zo uitzien:
 
@@ -325,6 +329,7 @@ Dit herontwerp begon met een aantal verbeterpunten die tijdens die uit de analys
 - [Michiel Lucassen (2016). Rubrics in de klas: zo ga je er mee aan de slag!](https://www.vernieuwenderwijs.nl/rubrics-klas-zo-ga-er-mee-aan-slag/)
 - [Valentina Devid (2020). Feedback: de magic bullet voor leren?](https://www.vernieuwenderwijs.nl/feedback-de-magic-bullet-voor-leren/)
 - [Toolbox Formatief Evalueren](https://formatiefevalueren.kdg.be/overzicht/)
+- [Valentina Devid (2020). 10 concrete handreikingen om feedback in de praktijk toe te passen](https://www.vernieuwenderwijs.nl/10-concrete-handreikingen-om-feedback-in-de-praktijk-toe-te-passen/#comment-24428)
 
 ## Bijlagen
 
@@ -337,11 +342,21 @@ Dit herontwerp begon met een aantal verbeterpunten die tijdens die uit de analys
 
 #### Onderwijskundige
 
+_Feedback van **Zuzana van Polen, Onderwijskundig Adviseur & Taalkundige**_
+
+- Wees huiverig met tussentijds summatieve toetsing in te zetten. Met summatief verlies je de leerfunctie van de toets, de student moet nog een mogelijkheid hebben om fouten te maken en te reflecteren op eigen leren. Een summatieve cijfer ‘beeindigt’ het leren (prestatiegericht vs. ontwikkelingsgericht).
+- Probeer de relatie tussen de LD en leeractiviteit visueel weer te geven in het ‘actief leren diagram’.
+- Geef aan hoe zicht de affectieve punten / LD-en vertalen in leeractiviteiten en in (formatieve) toetsing.
+- Dat is de essentie van formatieve evaluatie dat de student zelf al heel goed weet waar die staat, dus de summatieve toets is slechts een bevestiging ervan.
+- Probeer de workload stapsgewijs te verschuiven naar de student. De student moet zelf feedback kunnen verwerken & geven (peer), zelf feedforward formuleren en ook zelf gericht om feedback kunnen vragen.
+- Docenten moeten ook leren indirecte correctie toe te passen en coachenderwijs feedback geven. De student moet diegene zijn die de meeste tijdinvesteert in het verwerken van feedback.
+- Onder ‘Ways of assessing’ vermeld duidelijk wat formatief en wat summatief is. Onder ‘Teaching activities’ horen ook ‘Learning activities’ (leer- en doceeractiviteiten). Voeg de activiteiten toe uit je diagram ‘Actief leren’.
+
 #### SKE'er opleiding
 
 #### Team (inclusief je werkplekbegeleider)
 
-_Werkplekbegeleider Sonja Rouwhorst (Teammanger 2e jaar)_
+_Werkplekbegeleider **Sonja Rouwhorst (Teammanger 2e jaar)**_
 
 - Behoefte aan adjectieven bij leerdoelen, mist een niveauduiding.
 - Playground moet meer inspiratie zijn dan code copy paste die we weer moeten afleren. Er is discussie binnen docenten, dit was ooit geintroduceerd maar toen weer weggehaald.
@@ -350,7 +365,7 @@ _Werkplekbegeleider Sonja Rouwhorst (Teammanger 2e jaar)_
 - Waarom mogen de eindopleveringen elkaar niet compenseren? Omdat een propedeuse student dit allemaal echt 'moet kunnen'?
 - Hoe nuttig is nog een matig bij beoordeling? Het kan nog wel een niveau worden maar dan een andere bewoording.
 
-_Tech expertise groep, tech docenten in propedeuse (presentatie collega's)_
+_Tech expertise groep, **tech docenten in propedeuse (presentatie collega's)**_
 
 - Verlicht de druk op docenten, verzin leuke opdrachten in de weekopzet zodat dit verwerkt zit in het vak.
 - Er is ook een groep die het gewoon niet leuk vind, dan ga je meer naar 'waarde van techniek' in plaats van enthousiasme.
