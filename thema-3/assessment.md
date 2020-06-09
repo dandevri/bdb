@@ -75,26 +75,46 @@ Door het introduceren van web & wereld is er een goede mix van know-why en know-
 
 > De analyse en het herontwerp heb ik gepresenteerd aan mijn Werkplekbegeleider (Sonja Rouwhorst, Teammanager Jaar-2) en de volledige Tech-expertise groep (collega's die lesgeven in de propedeuse). Verder heb ik feedback ontvangen van Irene Kamp (SKE'er opleiding CMD) en onderwijskundige Zuzanna van Polen.
 
-Aan de onderzijde van de analyse en het herontwerp staat feedback van al deze belanghebbende. Een aantal hiervan heb ik al verwerkt in het herontwerp. Al deze feedback kan ik meenemen in het verdere ontwerp van `tech-0`. De eerste reacties waren veelal positief, mijn collega's vonden dat ik de situational factors goed onder de loep heb genomen, goed heb gekeken naar affectiefe doelen en de verandering van houding van studenten ook in het verdere loop van techniek op de studie, een speels vak heb ontwerp waar experiment en resultaat centraal staat. Ze kijken erg uit naar de verdere uitwerking van de vakinhoud.
+Aan de onderzijde van de analyse en het herontwerp staat feedback van al deze belanghebbende. Een aantal hiervan heb ik al verwerkt in het herontwerp. Al deze feedback kan ik meenemen in het verdere ontwerp van `tech-0`. De eerste reacties waren veelal positief, mijn collega's vonden dat ik de situational factors goed onder de loep heb genomen, goed heb gekeken naar affectiefe doelen en de verandering van houding van studenten ook in het verdere loop van techniek in de studie. Een speels vak waar experiment en resultaat centraal staat. Ze kijken erg uit naar de verdere uitwerking van de vakinhoud.
 
 → [Bekijk de volledige presentatie](https://docs.google.com/presentation/d/16_i14nw119DKlW78bAenHbltXQfiU9eOR_BzAOEhncg/edit?usp=sharing)
 
 ## Leervragen
 
-> Hoe kan ik formatieve toetsen inzetten om tussentijdse oplevering en self-assessment aan te sterken?
+> Hoe kan ik formatieve toetsing inzetten om tussentijdse oplevering en self-assessment aan te sterken?
 
-Vooral van de onderwijskundige Zuzanna heb ik veel tips gekregen over het inzetten van formatieve toetsing.
+Vooral van de onderwijskundige Zuzanna heb ik veel tips gekregen over het inzetten van formatieve toetsing. Op haar aanraden ben ik ook aan de slag gegaan met de [toolbox formatieve evaluatie](https://formatiefevalueren.kdg.be/) en ben ik verder gaan kijken naar [visible learning](https://visible-learning.org/). In het herontwerp van tech-0 heb ik in de toetsing formatieve toetsing een prominentere rol gegeven.
 
-> Hoe kan ik analyseren wat valkuilen van studenten waren en evaluaties doorspitten?
+**Waar stond ik**
 
-Ik vind het belangrijk om vanuit het oogpunt van de student te schrijven. Vandaar dat ik gedurende de analyse uitvoerig de enquetes en vakevulaties van studenten (en ook docenten) heb doorgelezen om te constateren wat de huidige valkuilen van de technische vakken waren.
+In de eerste versie van m'n herontwerp leunde ik nog heel erg op 'traditionele' summatieve toetsing, ook omdat ik het gevoel had dat het de 'standaard' is binnen het onderwijs en student dat het meest logisch vinden. Een eye-opener voor mij was (na feedback van de collega's en onderwijskundige) dat je met de manier van toetsen ook bij de student kan 'aanleren', net zoals vakinhoudelijke theorie. Je hoeft niet per se summatief te toetsen omdat je denkt dat de student dat beter snapt, je kan ze aanleren om ook met formatieve toetsing en peer-assessments aan de slag te gaan als je dat maar bewust inzet in de leeractiviteiten.
 
-> Bij de technische vakken de focus verleggen van cognitief naar affectief.
+**Wat heb ik geleerd**
+
+Naast het bovenstaande heb ik vooral geleerd dat bij summatieve toetsing het 'leren stopt' (prestatiegericht vs. ontwikkelingsgericht). Met summatief verlies je de leerfunctie van de toets, de student moet nog een mogelijkheid hebben om fouten te maken en te reflecteren op eigen leren. De summatieve toets is slechts een bevestiging van de formatieve toetsing.
+
+> Hoe kan ik bij de technische vakken de focus verleggen van cognitief naar affectief?
+
+De huidige technische vakken gaan snel naar ‘the big picture’ en focussen op het ontwikkelen van code literacy in plaats van resultaatgericht en meteen met code experimenteren. De huidige technische vakken hebben een te grote focus op cognitieve skills. De focus ligt op programmeertalen leren en toepassen in plaats van een bredere kijk op techniek met betrekking tot het bedrijfsleven en eigen ontwikkeling verder in de studie.
+
+**Waar stond ik**
+
+Ik heb een expertise in web technologie en in eerste instantie was ik het herontwerp heel erg vanuit vakinhoud aan het schrijven. Ik was meteen in een weekopzet gedoken en de theorie aan het onderverdelen over de weken en activiteiten. Maar dat is helemaal niet de essentie van een herontwerp, het gaat over mijn wens voor het vak en dat ik de studenten een bredere kijk op techniek wil meegeven in plaats van specifieke programmeertalen.
+
+**Wat heb ik geleerd**
+
+Het werken met de taxonomie van Dee Fink en Bloom hebben me meer inzicht gegeven in leerdoelen opstellen 'hoger' in de taxonomie, van kennis naar houding en gedrag en daar ook leerdoelen in te formuleren zodat er een betere spreiding is in de taxonomie.
 
 ## Reflectie
 
-Ik had iets meer aandacht willen besteden aan het herontwerp. Vooral de toetsing ben ik nog onzeker over. Ook samen met de onderwijskundige heb ik hier al veel feedback op ontvangen. Of iets wel of niet compenseerbaar mag zijn, en welke toetsvorm het beste bij de taxonomomie past.
+Al met al ben ik grove lijnen redelijk tevreden met mijn analyse en herontwerp. Vooral de feedback van al mijn collega's en de onderwijskundige hebben me aan het denken gezet. Genoeg aanknopingspunten ook om na de BDB verder te gaan met de ontwikkeling van dit vak. Wel had ik vakinhoudelijk (theorie) wellicht nog iets verder willen uitwerken om daar ook alvast op te kunnen itereren en dat mee te nemen in mijn presentatie aan het team.
 
-Waar ik verder nog aan kan werken is hoe het precies zit met niveauduiding in de leerdoelen. Spreiding in de taxonomie kan ik wel voor elkaar krijgen maar een niveaubepaling is veel. Ik weet nog niet precies wat ik nou kan verwachten van een propedeuse student, misschien wil ik wel teveel.
+Ook met de toetsing wil ik nog verder, daar ben ik nog wat onzeker over ook omdat ik nog het gevoel heb dat die nog iets teveel summatief is. Of iets wel of niet compenseerbaar mag zijn en welke toetsvorm het beste past bij de leerdoelen uit de taxonomie die ik heb geschreven is nog iets wat ik verder wil uitwerken. Verder moet ik nog kritisch kijken naar de niveauduiding in de leerdoelen, die onbtreekt nog. Wellicht verwacht ik ook nog wel teveel van een propedeuse student en mogen een aantal leerdoelen verschoven worden naar latere technische vakken in de techlijn van de propedeuse.
+
+Allemaal vraagstukken waar ik na de BDB nog mee aan de slag wil, ook het leren houdt voor mij hier nog niet op.
 
 ## Bronnen
+
+- [Zie bronnen analyse](../thema-3/analyse#bronnen)
+- [Zie bronnen herontwerp](../thema-3/herontwerp#bronnen)
+- [Zie colofon](../meta)

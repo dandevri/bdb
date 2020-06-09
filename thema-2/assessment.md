@@ -18,12 +18,9 @@ title: Assessment
 ## Inhoudsopgave
 
 - [Opdracht](#opdracht)
-- [Leervraag 1](#leervraag-1)
-- [Leervraag 2](#leervraag-2)
-- [Leervraag 3](#leervraag-2)
-- [Reflectie](#reflectie)
+- [Lesopzet](#lesopzet)
+- [Beeldcoaching](#beeldcoaching)
 - [Bronnen](#bronnen)
-- [Bijlage](#bijlagen)
 
 ## Opdracht
 
@@ -47,8 +44,13 @@ Om het thema af te ronden werken we binnen de BDB met Peer Assessments, een toet
 2. Verslag van de opbrengst van de begeleide beeldcoaching in de leergroep. Wat heb je geleerd?
 3. Een verslag (vorm is vrij) van een aanpassing van een lesopzet op basis van de 12 bouwstenen voor effectieve didactiek (zie voor inspiratievragen: einde van elk hoofdstuk over een bouwsteen)
 
-## Reflectie
+## Beeldcoaching
 
-- Waar stond je? Waar sta je nu?
-- Feedback van collega's en leergroep
-- Drie onderwijskundigebronnen
+- Critera 2 en 3
+
+## Lesopzet
+
+Aanpassing van een les op basis van de 12 bouwstenen.
+Zie ook nog feedback van studenten in thema-1, aanpassingen die ik heb gedaan.
+
+## Bronnen
