@@ -15,7 +15,7 @@ title: Beeldcoaching
 
 ## Fragmenten
 
-### Kick-off college back-end
+### Kick-off college back-end (fysiek)
 
 > **Kijkvraag:** Wat is het gevoel bij dit fragment (autoritair, te serieus)? Helder en gestructureerd maar nodigt dit uit tot vragen en input van de klas?
 
@@ -42,7 +42,14 @@ _Dit was een kick-off college voor het vak back-end, blok 3 toen nog fysiek. Ik 
 - Meer open vragen stellen. Uit de tent kan lokken. Gesloten vragen omzetten naar open vragen.
 - Wellicht nog een tikkie meer naar de klas kijken ipv scherm.
 
-### Kick-off college back-end
+## Feedback werkplekbegeleider
+
+Ik snap waarom je deze fragmenten hebt uitgekozen. Dit zijn maar korte clips, van de lessen die ik van je heb bijgewoond krijg ik een heel ander en breder beeld. Deze fragmenten zijn vrij 'strikt' maar daardoor wel heel helder en duidelijk, iets wat wellicht goed is voor een kick-off college.
+
+- Je mag studenten wel iets meer erbij betrekken, je bent veel aan het zenden. Helemaal op het eind, daar stel je vrij gesloten vragen in plaats van open vragen.
+- Ik vind niet per se dat je teveel beweegt voor het lokaal, waar je wel mee moet oppassen is dat je steeds van de ene kant van het scherm naar de andere kant loopt. Bewegen op een plek is goed, echt de positie veranderen kan onwennig worden.
+
+### Kick-off college back-end (digitaal)
 
 > **Kijkvraag:** Dwaal ik hier teveel af? Zorgt die game grap voor meer sfeer of leidt het juist af voor de studenten, ook die er niets mee hebben?
 
@@ -61,6 +68,12 @@ _Dit was hetzelfde kick-off college van back-end maar digitaal. Deze klas was we
 - Losser inderdaad, ook meer in de richting "energie". Ik vindt het zelf meer engaging dan de filmpjes van de fysieke lessen.
 - Ik denk dat je hier juist hele goede aansluiting maakt met de studenten
 - Afleiding in de chat is ook belangrijk en dat kun je ook benoemen. Speelse manier van groep naar instructie.
+
+## Feedback werkplekbegeleider
+
+Ik vind over het algemeen dat je digitaal net zo 'natuurlijk' bent dan fysiek. Veel docenten vinden het online nog wat onwennig maar bij jou kwam het meteen vanaf het begin natuurlijk over. Je hebt gevoel en went snel met betrekking tot in een camera spreken. Je past je heel snel aan. Daarbij ben je heel handig met tools en experimenteer je veel. Dat maakt het voor de studenten ook leuk, ze zien dat je tijd investeerd in het digitaal maken van je lessen en dat zo goed mogelijk doen.
+
+- Ik vind het persoonlijk leuk om meteen te reageren op de chat, want dat is vaak ook je enige vorm van interactie.
 
 ## Overige fragmenten
 

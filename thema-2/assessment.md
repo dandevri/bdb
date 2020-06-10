@@ -18,8 +18,8 @@ title: Assessment
 ## Inhoudsopgave
 
 - [Opdracht](#opdracht)
-- [Lesopzet](#lesopzet)
 - [Beeldcoaching](#beeldcoaching)
+- [Lesopzet](#lesopzet)
 - [Bronnen](#bronnen)
 
 ## Opdracht
@@ -44,13 +44,31 @@ Om het thema af te ronden werken we binnen de BDB met Peer Assessments, een toet
 2. Verslag van de opbrengst van de begeleide beeldcoaching in de leergroep. Wat heb je geleerd?
 3. Een verslag (vorm is vrij) van een aanpassing van een lesopzet op basis van de 12 bouwstenen voor effectieve didactiek (zie voor inspiratievragen: einde van elk hoofdstuk over een bouwsteen)
 
+> Door het analyseren van de beelden tijdens de beeldcoaching en het doorlopen van een lesopzet en die toetsen aan de 12 bouwstenen voor effectieve didactiek laat ik zien dat ik aan de criteria voor thema-2 heb voldaan.
+
 ## Beeldcoaching
 
-- Critera 2 en 3
+→ [Bekijk de volledige reflectie over de beeldcoaching](../thema-2/beeldcoaching)
 
 ## Lesopzet
 
 Aanpassing van een les op basis van de 12 bouwstenen.
 Zie ook nog feedback van studenten in thema-1, aanpassingen die ik heb gedaan.
 
+→ [Bekijk alle aanpassingen voor de lesopzet](../thema-2/lesopzet)
+
+## Bewijsmateriaal
+
+→ [Reflectie beeldcoaching (leergroep)](../thema-2/beeldcoaching)  
+→ [Reflectie beeldcoaching (werkplekbegeleider)](../thema-2/beeldcoaching#werkplekbegeleider)  
+→ [Aanpassingen lesopzet volgens bouwstenen](../thema-2/lesopzet)
+
 ## Bronnen
+
+- [Zie colofon](../meta)
+- [Zie verslag van de beeldcoaching](../thema-3/beeldcoaching)
+- [Valentina Devid (2020). Feedback: de magic bullet voor leren?](https://www.vernieuwenderwijs.nl/feedback-de-magic-bullet-voor-leren/)
+- Marianne Meijers (2018). Ontwerp je ontwikkeling.
+- David Didau (2015). What If Everything You Knew about Education Was Wrong?
+- Tim Surma (2019). Wijze Lessen: 12 bouwstenen voor effectieve didactiek
+- Karin Scager (2006). De docent als coach

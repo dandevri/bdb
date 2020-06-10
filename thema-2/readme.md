@@ -34,6 +34,12 @@ _Wekelijks begeleid in je leergroep aan de slag met het terugkijken en bespreken
 
 → [Beeldcoaching](../thema-2/beeldcoaching)
 
+### Lesopzet
+
+_Aanpassingen van een lesopzet op basis van de 12 bouwstenen voor effectieve didactiek. Wat doe jij als docent in de uitvoering van jouw onderwijs en wat werkt daarin?_
+
+→ [Lesopzet](../thema-2/lesopzet)
+
 ### Assessment
 
 _In het peer-assessment voor thema 2 laat je zien door middel van 3 voorbeelden hoe jij je docentrol hebt ingevuld en hoe jij je onderwijs hebt geactiveerd, op welke manier je dat hebt gedaan en wat het resultaat is._
