@@ -36,6 +36,7 @@ _Digitale tools en resources die voorbij zijn gekomen tijdens de BDB._
 - [Leer.tips](https://leer.tips/)
 - [Kennisnet](https://www.kennisnet.nl/)
 - [Cult of Pedagogy](https://www.cultofpedagogy.com/)
+- [Design Thinking for Educators](https://www.ideo.com/post/design-thinking-for-educators)
 
 ## Inspirerende mensen
 
