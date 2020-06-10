@@ -8,14 +8,12 @@ sidebar_link: true
 
 _Digitale tools en resources die voorbij zijn gekomen tijdens de BDB._
 
-## Taal
+## Vanuit de HvA
 
-Taalontwikkeld lesgeven
-
-- 99 tips voor taalontwikkelend lesgeven
-- 10 activerende werkvormen voor taalontwikkelend onderwijs
 - [MOOC Beter Schrijven][mooc]
 - [Taalwinkel][winkel]
+- [Score HvA](score.hva.nl)
+- [Gesprekssjabloon controversiële onderwerpen (handout)][omgaan]
 
 ## Feedback
 
@@ -31,18 +29,20 @@ Taalontwikkeld lesgeven
 ## Websites
 
 - [Wijslijst](https://www.wijslijst.nl/)
-
-## Toetsing
-
-- score.hva.nl
-
-## Discussie
-
-- [Gesprekssjabloon controversiële onderwerpen (handout)][omgaan]
-
-## Websites
-
 - [Vernieuwenderwijs](https://www.vernieuwenderwijs.nl/)
+- [Stichting Leerkracht](https://stichting-leerkracht.nl/)
+- [FutureNL](https://www.futurenl.org/)
+- [Leraar24](https://www.leraar24.nl/)
+- [Leer.tips](https://leer.tips/)
+- [Kennisnet](https://www.kennisnet.nl/)
+- [Cult of Pedagogy](https://www.cultofpedagogy.com/)
+
+## Inspirerende mensen
+
+- [Meester Sander](https://meestersander.nl/)
+- [Astrid Poot](https://www.astridpoot.nl/)
+- [Dieter Möckelmann](https://twitter.com/DieterM)
+- [Jasper Rijpma](https://twitter.com/JasperRijpma)
 
 [mooc]: https://moocbeterschrijven.nl/courses/course-v1:UvAHvA+1+2017/about
 [winkel]: https://www.taalwinkel.nl/
