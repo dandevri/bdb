@@ -113,6 +113,13 @@ Ook met de toetsing wil ik nog verder, daar ben ik nog wat onzeker over ook omda
 
 Allemaal vraagstukken waar ik na de BDB nog mee aan de slag wil, ook het leren houdt voor mij hier nog niet op.
 
+## Bewijsmateriaal
+
+→ [Volledige analyse huidig onderwijs](../thema-3/analyse)  
+→ [Volledig herontwerp tech-0](../thema-3/herontwerp)  
+→ [Presentatie aan het team](https://docs.google.com/presentation/d/16_i14nw119DKlW78bAenHbltXQfiU9eOR_BzAOEhncg/edit?usp=sharing)  
+→ [Feedback van collega's](../thema-3/herontwerp#feedback)
+
 ## Bronnen
 
 - [Zie bronnen analyse](../thema-3/analyse#bronnen)
