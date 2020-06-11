@@ -83,13 +83,13 @@ Aan de onderzijde van de analyse en het herontwerp staat feedback van al deze be
 
 > Hoe kan ik formatieve toetsing inzetten om tussentijdse oplevering en self-assessment aan te sterken?
 
-Vooral van de onderwijskundige Zuzanna heb ik veel tips gekregen over het inzetten van formatieve toetsing. Op haar aanraden ben ik ook aan de slag gegaan met de [toolbox formatieve evaluatie](https://formatiefevalueren.kdg.be/) en ben ik verder gaan kijken naar [visible learning](https://visible-learning.org/). In het herontwerp van tech-0 heb ik in de toetsing formatieve toetsing een prominentere rol gegeven.
+Vooral van de onderwijskundige Zuzanna heb ik veel tips gekregen over het inzetten van formatieve toetsing. Op haar aanraden ben ik ook aan de slag gegaan met de [toolbox formatieve evaluatie](https://formatiefevalueren.kdg.be/) en ben ik verder gaan kijken naar [visible learning](https://visible-learning.org/). In het herontwerp van tech-0 heb ik formatieve toetsing een prominentere rol gegeven.
 
-**Waar stond ik**
+**Waar stond ik:**
 
-In de eerste versie van m'n herontwerp leunde ik nog heel erg op 'traditionele' summatieve toetsing, ook omdat ik het gevoel had dat het de 'standaard' is binnen het onderwijs en student dat het meest logisch vinden. Een eye-opener voor mij was (na feedback van de collega's en onderwijskundige) dat je met de manier van toetsen ook bij de student kan 'aanleren', net zoals vakinhoudelijke theorie. Je hoeft niet per se summatief te toetsen omdat je denkt dat de student dat beter snapt, je kan ze aanleren om ook met formatieve toetsing en peer-assessments aan de slag te gaan als je dat maar bewust inzet in de leeractiviteiten.
+In de eerste versie van m'n herontwerp leunde ik nog heel erg op 'traditionele' summatieve toetsing, ook omdat ik het gevoel had dat het de 'standaard' is binnen het onderwijs en studenten dat het meest logisch vinden. Een eye-opener voor mij was (na feedback van de collega's en onderwijskundige) dat je de manier van toetsen ook bij de student kan 'aanleren', net zoals vakinhoudelijke theorie. Je hoeft niet per se summatief te toetsen omdat je denkt dat de student dat beter snapt, je kan ze aanleren om ook met formatieve toetsing en peer-assessments aan de slag te gaan als je dat maar bewust inzet in de leeractiviteiten.
 
-**Wat heb ik geleerd**
+**Wat sta ik nu:**
 
 Naast het bovenstaande heb ik vooral geleerd dat bij summatieve toetsing het 'leren stopt' (prestatiegericht vs. ontwikkelingsgericht). Met summatief verlies je de leerfunctie van de toets, de student moet nog een mogelijkheid hebben om fouten te maken en te reflecteren op eigen leren. De summatieve toets is slechts een bevestiging van de formatieve toetsing.
 
@@ -97,13 +97,13 @@ Naast het bovenstaande heb ik vooral geleerd dat bij summatieve toetsing het 'le
 
 De huidige technische vakken gaan snel naar ‘the big picture’ en focussen op het ontwikkelen van code literacy in plaats van resultaatgericht en meteen met code experimenteren. De huidige technische vakken hebben een te grote focus op cognitieve skills. De focus ligt op programmeertalen leren en toepassen in plaats van een bredere kijk op techniek met betrekking tot het bedrijfsleven en eigen ontwikkeling verder in de studie.
 
-**Waar stond ik**
+**Waar stond ik:**
 
-Ik heb een expertise in web technologie en in eerste instantie was ik het herontwerp heel erg vanuit vakinhoud aan het schrijven. Ik was meteen in een weekopzet gedoken en de theorie aan het onderverdelen over de weken en activiteiten. Maar dat is helemaal niet de essentie van een herontwerp, het gaat over mijn wens voor het vak en dat ik de studenten een bredere kijk op techniek wil meegeven in plaats van specifieke programmeertalen.
+Met mijn expertise in web technologie was ik in eerste instantie het herontwerp heel erg vanuit vakinhoud aan het schrijven. Ik was meteen in een weekopzet gedoken en de theorie aan het onderverdelen over de weken en activiteiten. Maar dat is helemaal niet de essentie van een herontwerp, het gaat over mijn wens voor het vak en dat ik de studenten een bredere kijk op techniek wil meegeven in plaats van specifieke programmeertalen.
 
-**Wat heb ik geleerd**
+**Wat sta ik nu:**
 
-Het werken met de taxonomie van Dee Fink en Bloom hebben me meer inzicht gegeven in leerdoelen opstellen 'hoger' in de taxonomie, van kennis naar houding en gedrag en daar ook leerdoelen in te formuleren zodat er een betere spreiding is in de taxonomie.
+Het werken met de taxonomie van Dee Fink en Bloom hebben me meer inzicht gegeven in leerdoelen opstellen 'hoger' in de taxonomie, van kennis naar houding en gedrag en daar ook leerdoelen in te formuleren zodat er een betere spreiding is in de taxonomie en daarmee ook de leerdoelen van tech-0 meer te verplaatsen naar affectief in plaats van cognitief.
 
 ## Reflectie
 
