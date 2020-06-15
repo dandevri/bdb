@@ -337,6 +337,7 @@ Dit herontwerp begon met een aantal verbeterpunten die tijdens die uit de analys
 - → [(Opzet) rubric (product)][rubric]
 - → [(Work in progress) syllabus][syllabus]
 - → [(Work in progress) playground][playground]
+- [Checklist SKE'er](../bijlage/thema-3/checklist_ske.pdf)
 
 ## Feedback
 
@@ -353,6 +354,12 @@ _Feedback van **Zuzana van Polen, Onderwijskundig Adviseur & Taalkundige**_
 - Onder ‘Ways of assessing’ vermeld duidelijk wat formatief en wat summatief is. Onder ‘Teaching activities’ horen ook ‘Learning activities’ (leer- en doceeractiviteiten). Voeg de activiteiten toe uit je diagram ‘Actief leren’.
 
 #### SKE'er opleiding
+
+_**Irene Kamp (CMD Amsterdam)**_
+
+- compenseren: dat lijkt me nu lastig omdat je voor de bio/logboek een ovg geeft: hoe compenseer je dit met 40% (geef je dan toch een cijfer en waarom zou je dan ovg geven?). Volgens mij is het logboek een ultieme manier om te zien hoe studenten hebben geexperimenteerd en geanalyseerd: hiervoor zou ik het dan ook inzetten, als bewijs voor deze leerdoelen en een apart cijfer is dan misschien niet nodig.
+- het lijkt mij ook veel. de kern -als ik jouw stuk zo lees- is toch dat studenten plezier krijgen in techniek en ermee gaan spelen/experimenteren. Dit zou een goede focus zijn voor het vak denk ik. Hun eigen analyse (of die van een peer) van hun product, zou dan bewijs kunnen zijn of ze andere leerdoelen behalen: misschien toch de kern van het vak nog duidelijker naar voren halen.
+- eens: ik zou zeggen dat de subleerdoelen (weet eigenlijk niet wat dat zijn…) beter zijn dan de leerdoelen die je geformuleerd hebt. De subleerdoelen zijn veel concreter en toetsbaar, de leerdoelen die je nu geformuleerd hebt lijken meer op competenties.
 
 #### Team (inclusief je werkplekbegeleider)
 
